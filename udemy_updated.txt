@@ -1,73 +1,343 @@
-Name: Numpy For Data Science - Real Time Exercises
-Udemy Link: https://www.udemy.com/course/python-numpy-exercises/?couponCode=NUMPY_FREE_OCT11
-Coupon Code: NUMPY_FREE_OCT11
-Name: Python For Data Science - Real Time Exercises
-Udemy Link: https://www.udemy.com/course/python-for-data-science-real-time-exercises/?couponCode=PYTHON_FREE_OCT11
-Coupon Code: PYTHON_FREE_OCT11
-Name: The Complete Django Rest Framework Bootcamp 2024 [Latest]
-Udemy Link: https://www.udemy.com/course/the-complete-django-rest-framework-bootcamp-2024-latest/?couponCode=SAVEMYBUCKS
-Coupon Code: SAVEMYBUCKS
-Name: 8 Python Projects - Data Analysis
-Udemy Link: https://www.udemy.com/course/bigdata-analysis-python/?couponCode=PROJECT_FREE_OCT11
-Coupon Code: PROJECT_FREE_OCT11
-Name: Postgraduate Executive Diploma: Marketing Management
-Udemy Link: https://www.udemy.com/course/marketing-management-principles/?couponCode=9C01181ACCCBE2ED7C2F
-Coupon Code: 9C01181ACCCBE2ED7C2F
-Name: Adobe Illustrator & After Effects 2 in1 Course for Newbies
-Udemy Link: https://www.udemy.com/course/adobe-illustrator-after-effects-2-in1-course-for-newbies/?couponCode=ADILLAFX1000
-Coupon Code: ADILLAFX1000
-Name: The Ultimate Adobe Photoshop Fundamental Course (2024)
-Udemy Link: https://www.udemy.com/course/the-ultimate-adobe-photoshop-fundamental-course/?couponCode=PSFUNDA1000
-Coupon Code: PSFUNDA1000
-Name: Adobe Firefly Mastery Course - Crafting Magic with Firefly
-Udemy Link: https://www.udemy.com/course/crafting-magic-with-firefly/?couponCode=AFIREFLY1000
-Coupon Code: AFIREFLY1000
+Name: Comprehensive Python Programming Practice Test: Code Mastery
+Udemy Link: https://www.udemy.com/course/comprehensive-python-programming-practice-test-code-mastery/?couponCode=PYTHONPRACTICE
+Coupon Code: PYTHONPRACTICE
+Name: Build a Modern REST API with PHP 8
+Udemy Link: https://www.udemy.com/course/build-modern-php-api/?couponCode=6E5253BFB0CC137AB182
+Coupon Code: 6E5253BFB0CC137AB182
 Name: Python from Zero-to-Hero (Beginner Level)
 Udemy Link: https://www.udemy.com/course/python-from-zero-to-hero-beginner-level/?couponCode=4E71B20DDD3F6FAC4A51
 Coupon Code: 4E71B20DDD3F6FAC4A51
-Name: Adobe Photoshop Mega Mastery Course: Novice to Pro 2024 + AI
-Udemy Link: https://www.udemy.com/course/adobe-photoshop-mega-mastery-course-novice-to-pro/?couponCode=PSMEGG1000
-Coupon Code: PSMEGG1000
+Name: Build a full user Web app from scratch with vanilla PHP 8+
+Udemy Link: https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=A919AE35F3C2E8CB8685
+Coupon Code: A919AE35F3C2E8CB8685
+Name: RPA Project: Identify the process to automate
+Udemy Link: https://www.udemy.com/course/rpa-project-identify-the-process-to-automate/?couponCode=970B10B61264D901C27A
+Coupon Code: 970B10B61264D901C27A
+Name: Selenium Webdriver with Java & TestNG Testing Framework
+Udemy Link: https://www.udemy.com/course/selenium-webdriver-with-java-testng-testing-framework/?couponCode=F22ABAD71E718E9C2957
+Coupon Code: F22ABAD71E718E9C2957
+Name: Selenium Webdriver Automation Testing [Live Projects 2024]
+Udemy Link: https://www.udemy.com/course/selenium-webdriver-web-based-automation-testing/?couponCode=FBF26DDB3E21E407AB8D
+Coupon Code: FBF26DDB3E21E407AB8D
+Name: Stock Trading | Investing: Technical Analysis Stock Market
+Udemy Link: https://www.udemy.com/course/stock-trading-investing-technical-analysis-indian-stock-market/?couponCode=60940A056CE59CCDD475
+Coupon Code: 60940A056CE59CCDD475
+Name: The Complete Django Rest Framework Bootcamp 2024 [Latest]
+Udemy Link: https://www.udemy.com/course/the-complete-django-rest-framework-bootcamp-2024-latest/?couponCode=SAVEMYBUCKS
+Coupon Code: SAVEMYBUCKS
+Name: Certified Kubernetes Security Specialist (CKS)
+Udemy Link: https://www.udemy.com/course/certified-kubernetes-security-specialist-cks-exam/?couponCode=65A164FB3AB3FA2CBE22
+Coupon Code: 65A164FB3AB3FA2CBE22
+Name: C_TS462_2023 Certification Practice Test [Oct 2024 Updated]
+Udemy Link: https://www.udemy.com/course/c_ts462-certification-practice-test/?couponCode=TS462_2023_OCT_FREE
+Coupon Code: TS462_2023_OCT_FREE
+Name: HTML For Beginners
+Udemy Link: https://www.udemy.com/course/html-for-beginners-introduction/?couponCode=F3E927B8BF7A2A3A42C2
+Coupon Code: F3E927B8BF7A2A3A42C2
+Name: PHP with MySQL 2024: Build Hotel Booking Management System
+Udemy Link: https://www.udemy.com/course/php-with-mysql-2023-build-hotel-booking-management-system/?couponCode=PHPHOTEL42
+Coupon Code: PHPHOTEL42
+Name: Python Development Professional Certification
+Udemy Link: https://www.udemy.com/course/python_development/?couponCode=38B9FCC35085EABD19E4
+Coupon Code: 38B9FCC35085EABD19E4
+Name: Balance of Payments dynamics: Causes and Corrective Measures
+Udemy Link: https://www.udemy.com/course/balance-of-payments-dynamics-causes-and-corrective-measures/?couponCode=94650D137DF207388DF1
+Coupon Code: 94650D137DF207388DF1
+Name: Demystifying Forex: Rates, Quoting, Demand and Supply
+Udemy Link: https://www.udemy.com/course/demystifying-forex-rates-quoting-demand-and-supply/?couponCode=EBBE4AF23C705DDB1D0A
+Coupon Code: EBBE4AF23C705DDB1D0A
+Name: A Deep Dive into Currency Depreciation
+Udemy Link: https://www.udemy.com/course/a-deep-dive-into-currency-depreciation/?couponCode=743D64BB1C996DCBC136
+Coupon Code: 743D64BB1C996DCBC136
+Name: Currency Gains, Depreciation, Revaluation & Devaluation
+Udemy Link: https://www.udemy.com/course/currency-gains-depreciation-revaluation-devaluation/?couponCode=442C55CAC6455AA3A0AB
+Coupon Code: 442C55CAC6455AA3A0AB
+Name: Trade Tides & Turning Points: Mastering the Current Account
+Udemy Link: https://www.udemy.com/course/trade-tides-turning-points-mastering-the-current-account/?couponCode=7BF141AEB77E0CBE63E2
+Coupon Code: 7BF141AEB77E0CBE63E2
+Name: Graphical Representation of Linear Equations Part-I
+Udemy Link: https://www.udemy.com/course/graphical-representation-of-linear-equations-part-i/?couponCode=DC20A5F5B5D00F3922C6
+Coupon Code: DC20A5F5B5D00F3922C6
+Name: Graphical Representation of Linear Equations Part- 2
+Udemy Link: https://www.udemy.com/course/graphical-representation-of-linear-equations-part-2/?couponCode=93BB118EF6422411E36C
+Coupon Code: 93BB118EF6422411E36C
+Name: Trade Without Money: The Barter System Demystified
+Udemy Link: https://www.udemy.com/course/trade-without-money-the-barter-system-demystified/?couponCode=909975A0175F9EF9255B
+Coupon Code: 909975A0175F9EF9255B
+Name: 3D Shapes Unveiled: Sphere, Hemisphere, Cone, Cuboid, & Cube
+Udemy Link: https://www.udemy.com/course/3d-shapes-unveiled-sphere-hemisphere-cone-cuboid-cube/?couponCode=2F8B24C54265DDFFB46D
+Coupon Code: 2F8B24C54265DDFFB46D
+Name: A Deep Dive into the Money Multiplier Journey
+Udemy Link: https://www.udemy.com/course/a-deep-dive-into-the-money-multiplier-journey/?couponCode=0793774DAD05DEF1EC77
+Coupon Code: 0793774DAD05DEF1EC77
+Name: Polynomial Module-1
+Udemy Link: https://www.udemy.com/course/polynomial-module-1/?couponCode=74F7E61D50DD79967353
+Coupon Code: 74F7E61D50DD79967353
+Name: Legal tender, High-Powered Money and Fiduciary Money
+Udemy Link: https://www.udemy.com/course/legal-tender-high-powered-money-and-fiduciary-money/?couponCode=DADCF1F7AE439353DDDF
+Coupon Code: DADCF1F7AE439353DDDF
+Name: Exploring BOT, Current, Capital & Financial Accounts in BOP
+Udemy Link: https://www.udemy.com/course/exploring-bot-current-capital-financial-accounts-in-bop/?couponCode=3560072FD7622F78F9EE
+Coupon Code: 3560072FD7622F78F9EE
+Name: Global Cash Flow: Unveiling  Secrets of Balance of Payments
+Udemy Link: https://www.udemy.com/course/global-cash-flow-unveiling-secrets-of-balance-of-payments/?couponCode=1B11B7EE1DD4EF85FB9F
+Coupon Code: 1B11B7EE1DD4EF85FB9F
+Name: Banking Essentials: Unveiling Commercial Banks' Vital Role
+Udemy Link: https://www.udemy.com/course/banking-essentials-unveiling-commercial-banks-vital-role/?couponCode=D52489985EEB26A05011
+Coupon Code: D52489985EEB26A05011
+Name: Fractional Reserve Banking:The Heartbeat of Modern Economies
+Udemy Link: https://www.udemy.com/course/exploring-fractional-reserve-banking-the-heartbeat-of-moder/?couponCode=1FDA03C7DA4A91734B8F
+Coupon Code: 1FDA03C7DA4A91734B8F
+Name: Career Counselling Module-III
+Udemy Link: https://www.udemy.com/course/career-counselling-module-iii/?couponCode=3D5F88862E60CB0C494F
+Coupon Code: 3D5F88862E60CB0C494F
+Name: Career Counselling Module- 1
+Udemy Link: https://www.udemy.com/course/career-counselling-module-1/?couponCode=3DFF6B41C244B11523CA
+Coupon Code: 3DFF6B41C244B11523CA
+Name: A journey through Fiat Money
+Udemy Link: https://www.udemy.com/course/a-journey-through-fiat-money/?couponCode=8FAFC1FF8DB3B72D0149
+Coupon Code: 8FAFC1FF8DB3B72D0149
+Name: Career Counselling Module-II
+Udemy Link: https://www.udemy.com/course/career-counselling-module-ii/?couponCode=D594471F1A6F5F384B4C
+Coupon Code: D594471F1A6F5F384B4C
+Name: Exploring the Foreign Exchange Market
+Udemy Link: https://www.udemy.com/course/exploring-the-foreign-exchange-market/?couponCode=CF398B70AB5B6443EFD3
+Coupon Code: CF398B70AB5B6443EFD3
+Name: Linear Equation Part- 2   Linear Equations in two Variables
+Udemy Link: https://www.udemy.com/course/linear-equation-part-2-linear-equations-in-two-variables/?couponCode=E0312DD5A765CE099520
+Coupon Code: E0312DD5A765CE099520
+Name: DBMS Module - 5
+Udemy Link: https://www.udemy.com/course/dbms-module-5/?couponCode=8020DED748B9842C45B9
+Coupon Code: 8020DED748B9842C45B9
+Name: DBMS Uncovered: The Heart of Data Management
+Udemy Link: https://www.udemy.com/course/dbms-uncovered-the-heart-of-data-management/?couponCode=865B7C7DA4CC012A6ABC
+Coupon Code: 865B7C7DA4CC012A6ABC
+Name: Comprehensive Career Counseling: Your Journey to Success
+Udemy Link: https://www.udemy.com/course/comprehensive-career-counseling-your-journey-to-success/?couponCode=B6F2BB8836E240D3F978
+Coupon Code: B6F2BB8836E240D3F978
 Name: AWS Certified Cloud Practitioner Practice Exams 2022
 Udemy Link: https://www.udemy.com/course/aws-certified-cloud-practitioner-practice-exam-new/?couponCode=E42D5CCEECE7071B84AB
 Coupon Code: E42D5CCEECE7071B84AB
-Name: Microsoft Azure Fundamentals Practice Tests
+Name: AZ-900: Microsoft Azure Fundamentals Practice Tests
 Udemy Link: https://www.udemy.com/course/practice-tests-azure-fundamentals/?couponCode=2D6BC7D4AE3DB122BAFF
 Coupon Code: 2D6BC7D4AE3DB122BAFF
-Name: Securing the Budget for Your Project with A Winning Pitch
+Name: JavaScript Certification Exam JSE-40-01 - Preparation
+Udemy Link: https://www.udemy.com/course/javascript-jse-40-01-certification-exam-practice-tests-preparation/?couponCode=B0B2EFB5689E455FE3CE
+Coupon Code: B0B2EFB5689E455FE3CE
+Name: Shielding Your Website: A Multi-Layered Approach to Security
+Udemy Link: https://www.udemy.com/course/shielding-your-website-a-multi-layered-approach-to-security/?couponCode=E183DB2AD37D259D953F
+Coupon Code: E183DB2AD37D259D953F
+Name: Mastering Python Operators: A Comprehensive Guide
+Udemy Link: https://www.udemy.com/course/mastering-python-operators-a-comprehensive-guide/?couponCode=91A2336B877A73124C3E
+Coupon Code: 91A2336B877A73124C3E
+Name: Hackers vs. Websites: Motivations, Weaknesses & Techniques
+Udemy Link: https://www.udemy.com/course/hackers-vs-websites-motivations-weaknesses-techniques/?couponCode=E51C288664F5A187A168
+Coupon Code: E51C288664F5A187A168
+Name: Learn Python Programming : From Basics to First Programs
+Udemy Link: https://www.udemy.com/course/learn-python-programming-from-basics-to-first-programs/?couponCode=4CB0EF0B31F379757129
+Coupon Code: 4CB0EF0B31F379757129
+Name: A winning marketing strategy with a little help of AI models
+Udemy Link: https://www.udemy.com/course/a-winning-marketing-strategy-with-a-little-help-of-ai-models/?couponCode=5272670F0ADDBBBC19ED
+Coupon Code: 5272670F0ADDBBBC19ED
+Name: French proverbs for intermediate students
+Udemy Link: https://www.udemy.com/course/french-proverbs-for-intermediate-language-students/?couponCode=A7E03E8234C3D7904D3B
+Coupon Code: A7E03E8234C3D7904D3B
+Name: NumPy, Pandas, & Python for Data Analysis: A Complete Guide
+Udemy Link: https://www.udemy.com/course/numpy-pandas-python-for-data-analysis-a-complete-guide/?couponCode=5F7150036ECD4A4D189E
+Coupon Code: 5F7150036ECD4A4D189E
+Name: Mastering C++ Language - C++ Programming For Beginners
+Udemy Link: https://www.udemy.com/course/mastering-c-plus-language-c-programming-for-beginners/?couponCode=D353250E35477C0484BD
+Coupon Code: D353250E35477C0484BD
+Name: The Ultimate SQL Bootcamp : Go From Zero to Hero
+Udemy Link: https://www.udemy.com/course/the-ultimate-sql-bootcamp-go-from-zero-to-hero/?couponCode=E99259306F9ACEA429B7
+Coupon Code: E99259306F9ACEA429B7
+Name: Python, Java and PHP Essentials: Complete Coding Bootcamp
+Udemy Link: https://www.udemy.com/course/python-java-and-php-essentials-complete-coding-bootcamp/?couponCode=8181F20B25DDDF650D40
+Coupon Code: 8181F20B25DDDF650D40
+Name: C-level management: proven frameworks and techniques
+Udemy Link: https://www.udemy.com/course/c-level-management-proven-frameworks-and-techniques/?couponCode=D1883C964102B317185A
+Coupon Code: D1883C964102B317185A
+Name: 7 steps to entrepreneurship: A complete business plan (PRO)
+Udemy Link: https://www.udemy.com/course/7-steps-for-entrepreneurs-to-turn-a-business-idea-to-reality/?couponCode=635575B0C4E3C6F46067
+Coupon Code: 635575B0C4E3C6F46067
+Name: Sales management - streams, frameworks and processes
+Udemy Link: https://www.udemy.com/course/sales-management-streams-frameworks-and-processes/?couponCode=CE0B7B5844F68236F7C7
+Coupon Code: CE0B7B5844F68236F7C7
+Name: Complete Warehouse Management, Warehouse Processing & WMS
+Udemy Link: https://www.udemy.com/course/warehouse-management-wms/?couponCode=20BDE21D85279956201C
+Coupon Code: 20BDE21D85279956201C
+Name: Product Management & Development Expert Assessment (PMD)
+Udemy Link: https://www.udemy.com/course/product_management_development/?couponCode=5CEA2B8F23814E605A15
+Coupon Code: 5CEA2B8F23814E605A15
+Name: HTML and CSS for Beginners From Basic to Advance
+Udemy Link: https://www.udemy.com/course/html-and-css-for-beginners-from-basic-to-advance/?couponCode=770E748A3E42FA4C3ED1
+Coupon Code: 770E748A3E42FA4C3ED1
+Name: Adobe Illustrator Complete Mega Course - Beginner to Advance
+Udemy Link: https://www.udemy.com/course/adobe-illustrator-complete-mega-course-beginner-to-advance/?couponCode=AIMEGGA1000
+Coupon Code: AIMEGGA1000
+Name: Secure Your Wordpress Website For Beginners
+Udemy Link: https://www.udemy.com/course/secure-your-wordpress-website-for-beginners/?couponCode=SUBHANALLAH_101324
+Coupon Code: SUBHANALLAH_101324
+Name: SMM Social Media Marketing Professional Certification
+Udemy Link: https://www.udemy.com/course/smm_management/?couponCode=F2F4A5998CA16503738D
+Coupon Code: F2F4A5998CA16503738D
+Name: Python Mastery: The Complete Web Programming Course
+Udemy Link: https://www.udemy.com/course/python-mastery-the-complete-web-programming-course/?couponCode=E33A66D6ACD2FD7B1562
+Coupon Code: E33A66D6ACD2FD7B1562
+Name: Microsoft Office: Excel, Word, PowerPoint and Teams for Pro
+Udemy Link: https://www.udemy.com/course/microsoft-office-excel-word-powerpoint-and-teams-for-pro/?couponCode=BISMILLAH_06
+Coupon Code: BISMILLAH_06
+Name: Google Sheets - The Complete Google Sheets Course
+Udemy Link: https://www.udemy.com/course/google-sheets-the-complete-google-sheets-course/?couponCode=BISMILLAH29
+Coupon Code: BISMILLAH29
+Name: Microsoft Excel Data Analysis with Formulas and VBA
+Udemy Link: https://www.udemy.com/course/microsoft-excel-data-analysis-with-formulas-and-vba/?couponCode=BISMILLAH
+Coupon Code: BISMILLAH
+Name: Microsoft Word & Google Docs: Master Document Creation
+Udemy Link: https://www.udemy.com/course/microsoft-word-google-docs-master-document-creation/?couponCode=BISMILLAH_6
+Coupon Code: BISMILLAH_6
+Name: CSS, Bootstrap ,JavaScript, Web Development Course
+Udemy Link: https://www.udemy.com/course/css-bootstrap-javascript-web-development-course/?couponCode=4FFC2BF7FDFE29A9F10A
+Coupon Code: 4FFC2BF7FDFE29A9F10A
+Name: C++ Complete Training Course for Beginners 2022
+Udemy Link: https://www.udemy.com/course/c-complete-training-course-for-beginners-2022/?couponCode=8F2463E822FA9503377C
+Coupon Code: 8F2463E822FA9503377C
+Name: CyberOps Associate Q&A Master -  Ace the 200-201
+Udemy Link: https://www.udemy.com/course/ccna-cyberops-associate-ace-the-200-201/?couponCode=7C59F5FC0231D89261BF
+Coupon Code: 7C59F5FC0231D89261BF
+Name: Information Security Expert Assessment
+Udemy Link: https://www.udemy.com/course/information_security_expert/?couponCode=A4E91723D0A0A67518B0
+Coupon Code: A4E91723D0A0A67518B0
+Name: JAVA for Beginners
+Udemy Link: https://www.udemy.com/course/java-masterclass-zero-to-hero/?couponCode=TOPRATINGJAVA
+Coupon Code: TOPRATINGJAVA
+Name: Google Professional Cloud Security Engineer Exam Questions
+Udemy Link: https://www.udemy.com/course/google-professional-cloud-security-engineer-exam-questions/?couponCode=01A12711516ABAD3CD02
+Coupon Code: 01A12711516ABAD3CD02
+Name: VMware Data Center Virtualization (VCTA-DCV 2024) exam
+Udemy Link: https://www.udemy.com/course/vmware-data-center-virtualization-vcta-dcv-2024-exam/?couponCode=45F72A121135F0A33635
+Coupon Code: 45F72A121135F0A33635
+Name: Strategic Business Administration Assessment
+Udemy Link: https://www.udemy.com/course/businessadministration/?couponCode=6F2108656E00696422AB
+Coupon Code: 6F2108656E00696422AB
+Name: Professional Financial Analyst Assessment (PFAA)
+Udemy Link: https://www.udemy.com/course/financial-analyst/?couponCode=A2FAE4EC3D84FAC870D0
+Coupon Code: A2FAE4EC3D84FAC870D0
+Name: Public Speaking and Presenting in Finance
+Udemy Link: https://www.udemy.com/course/public-speaking-finance/?couponCode=4D701C49B028F4E27939
+Coupon Code: 4D701C49B028F4E27939
+Name: Postgraduate Executive Diploma: Finance Management
+Udemy Link: https://www.udemy.com/course/financemanagement/?couponCode=F9C36C39E55DAB28C582
+Coupon Code: F9C36C39E55DAB28C582
+Name: Postgraduate Diploma: Copywriting & Business Writing Expert
+Udemy Link: https://www.udemy.com/course/copywriting_businesswriting/?couponCode=D2CD13B603FF4F5455A7
+Coupon Code: D2CD13B603FF4F5455A7
+Name: Ultimate Investing and Crypto Mastery 2024 - BTC Cycle
+Udemy Link: https://www.udemy.com/course/ultimate-investing-and-crypto-mastery-2024/?couponCode=FREECRYPTO
+Coupon Code: FREECRYPTO
+Name: Mastering HTML5 and CSS3 (Part 3 - Advanced Level)
+Udemy Link: https://www.udemy.com/course/mastering-html5-and-css3-part-3-advanced-level/?couponCode=632711F890D590ACFD00
+Coupon Code: 632711F890D590ACFD00
+Name: Google My Business SEO with AI: Google Maps Course 2024
+Udemy Link: https://www.udemy.com/course/google-my-business-seo-with-ai-google-maps-course-2024/?couponCode=FREE26
+Coupon Code: FREE26
+Name: Professional Scrum Master Assessment (PSMA)
+Udemy Link: https://www.udemy.com/course/professional-scrum-master-assessment-psma/?couponCode=42DF3928869AA0BBAF66
+Coupon Code: 42DF3928869AA0BBAF66
+Name: Web Development Assessment
+Udemy Link: https://www.udemy.com/course/web-development-assessment/?couponCode=CBE54DF1259D034388ED
+Coupon Code: CBE54DF1259D034388ED
+Name: Lean Six Sigma Green Belt Assessment
+Udemy Link: https://www.udemy.com/course/lean-six-sigma-green-belt-assessment/?couponCode=75AD9AE5CA335E725E77
+Coupon Code: 75AD9AE5CA335E725E77
+Name: Time Value of Money & Capital Budgeting - Present Value
+Udemy Link: https://www.udemy.com/course/time-value-of-money-capital-budgeting-present-value/?couponCode=871B1163ACD2E771B358
+Coupon Code: 871B1163ACD2E771B358
+Name: Advanced Professional Photoshop Course to Become Expert
+Udemy Link: https://www.udemy.com/course/advanced-professional-photoshop-course/?couponCode=9201E494C96D4ACDE6F1
+Coupon Code: 9201E494C96D4ACDE6F1
+Name: Advanced Wordpress Course for Professionals
+Udemy Link: https://www.udemy.com/course/advanced-wordpress-course-for-professionals/?couponCode=BE499332B3D278F1CC97
+Coupon Code: BE499332B3D278F1CC97
+Name: Process Costing System-Cost Accounting-Managerial Accounting
+Udemy Link: https://www.udemy.com/course/process-costing-system-cost-accounting-managerial-accounting/?couponCode=BF70981168965C3E9030
+Coupon Code: BF70981168965C3E9030
+Name: Master Budgets – Managerial Accounting/Cost Accounting
+Udemy Link: https://www.udemy.com/course/master-budgets-managerial-accountingcost-accounting/?couponCode=080CAF93CDED51EFEC49
+Coupon Code: 080CAF93CDED51EFEC49
+Name: Flexible Budgets, Standard Costs, & Variance Analysis
+Udemy Link: https://www.udemy.com/course/flexible-budgets-standard-costs-variance-analysis/?couponCode=53996E277B2FE2AF10A0
+Coupon Code: 53996E277B2FE2AF10A0
+Name: Relevant Costs - Managerial Accounting Decisions & Scenarios
+Udemy Link: https://www.udemy.com/course/relevant-costs-managerial-accounting-decisions-scenarios/?couponCode=1FCC29173A9BECBBB70C
+Coupon Code: 1FCC29173A9BECBBB70C
+Name: Cost Volume Profit Analysis (CVP) – Managerial Accounting
+Udemy Link: https://www.udemy.com/course/cost-volume-profit-analysis-cvp-managerial-accounting/?couponCode=B66AE897BF8D701E872A
+Coupon Code: B66AE897BF8D701E872A
+Name: Modelización financiera: curso completo de finanzas en Excel
+Udemy Link: https://www.udemy.com/course/modelizacion-financiera-curso-completo-de-finanzas-en-excel/?couponCode=A73BFD04542DE5FCBB50
+Coupon Code: A73BFD04542DE5FCBB50
+Name: ChatGPT e IA Generativa: guía de IA y prompt engineering
+Udemy Link: https://www.udemy.com/course/chatgpt-e-ia-generativa/?couponCode=9DB275DF3F6237F04C14
+Coupon Code: 9DB275DF3F6237F04C14
+Name: Basic Quality Management Fundamentals
+Udemy Link: https://www.udemy.com/course/basic-quality-management-fundamentals/?couponCode=9444CC548BB2C3868402
+Coupon Code: 9444CC548BB2C3868402
+Name: ChatGPT & IA : Formation complète ChatGPT, Dall-e
+Udemy Link: https://www.udemy.com/course/chatgpt-ia/?couponCode=F57A44938FF4FA0D5FDA
+Coupon Code: F57A44938FF4FA0D5FDA
+Name: Project Management Assessment
+Udemy Link: https://www.udemy.com/course/project-management-assessment/?couponCode=A011B772BD7A853A9D77
+Coupon Code: A011B772BD7A853A9D77
+Name: »Master PHOTOSHOP | El curso más completo de PHOTOSHOP«
+Udemy Link: https://www.udemy.com/course/megapackdephotoshop/?couponCode=601709BAA1F2B1FE91AB
+Coupon Code: 601709BAA1F2B1FE91AB
+Name: VMware VSphere Foundation Administrator (2V0-12.24) Exams
+Udemy Link: https://www.udemy.com/course/vmware-vsphere-foundation-administrator-2v0-1224-exams/?couponCode=FREE
+Coupon Code: FREE
+Name: Adobe Premiere Pro Advanced Video Editing Course
+Udemy Link: https://www.udemy.com/course/adobe-premiere-pro-advanced-video-editing-course/?couponCode=7959EDD366AA60B98C63
+Coupon Code: 7959EDD366AA60B98C63
+Name: Women's Leadership
+Udemy Link: https://www.udemy.com/course/womens-leadership/?couponCode=7AB8A61BE66698946BCE
+Coupon Code: 7AB8A61BE66698946BCE
+Name: Cómo Crear una Página Web con WordPress y Elementor PRO
+Udemy Link: https://www.udemy.com/course/como-crear-una-pagina-web-con-wordpress-y-elementor-pro/?couponCode=ELE
+Coupon Code: ELE
+Name: Máster en Elementor, ¡Desde Cero Hasta Experto!
+Udemy Link: https://www.udemy.com/course/master-en-elementor-desde-cero-hasta-experto/?couponCode=MASTER
+Coupon Code: MASTER
+Name: Máster en WordPress y ChatGPT, ¡Desde Cero Hasta Experto!
+Udemy Link: https://www.udemy.com/course/master-en-wordpress-y-chatgpt-desde-cero-hasta-experto/?couponCode=MWC
+Coupon Code: MWC
+Name: All in One WP Migration: Migra tu Sitio Web de WordPress
+Udemy Link: https://www.udemy.com/course/all-in-one-wp-migration-migra-tu-sitio-web-de-wordpress/?couponCode=MIG
+Coupon Code: MIG
+Name: Elementor Hosting: Cómo Crear una Página Web con WordPress
+Udemy Link: https://www.udemy.com/course/elementor-hosting-como-crear-una-pagina-web-con-wordpress/?couponCode=ELEMENTORH
+Coupon Code: ELEMENTORH
+Name: API REST con PHP  y MYSQL
+Udemy Link: https://www.udemy.com/course/api-rest-con-php-y-mysql/?couponCode=9TE362B269E014818C1N
+Coupon Code: 9TE362B269E014818C1N
+Name: Executive Diploma in Marketing Management
+Udemy Link: https://www.udemy.com/course/marketing-management-principles/?couponCode=9C01181ACCCBE2ED7C2F
+Coupon Code: 9C01181ACCCBE2ED7C2F
+Name: Executive Diploma in Business Presenting Skills
 Udemy Link: https://www.udemy.com/course/securing-the-budget-for-your-project-with-a-winning-pitch-deck/?couponCode=07FDC9520477E9714D15
 Coupon Code: 07FDC9520477E9714D15
-Name: Mega Microsoft Office Course | Covers Seven Office Products
-Udemy Link: https://www.udemy.com/course/mega-microsoft-office-course-covers-seven-office-products/?couponCode=MEGAOFCPROMOOCT2024
-Coupon Code: MEGAOFCPROMOOCT2024
 Name: Typing Fingers: A Comprehensive Touch Typing Guide
 Udemy Link: https://www.udemy.com/course/typing-fingers-a-comprehensive-touch-typing-guide/?couponCode=B137CCA93CF08D5BFF9E
 Coupon Code: B137CCA93CF08D5BFF9E
-Name: Excel Essentials: Unlocking Mastery with Practical Exercises
-Udemy Link: https://www.udemy.com/course/excel-essentials-unlocking-mastery-with-practical-exercises/?couponCode=03E80436BB3D40D05784
-Coupon Code: 03E80436BB3D40D05784
-Name: Learning Microsoft Word through an Exciting Book Project
-Udemy Link: https://www.udemy.com/course/learning-microsoft-word-through-an-exciting-book-project/?couponCode=8411888903F6E15903B9
-Coupon Code: 8411888903F6E15903B9
-Name: Computer Networks theory and network configurations
-Udemy Link: https://www.udemy.com/course/computer-networks-theory-and-network-configurations/?couponCode=17C182DF5A371B8EC053
-Coupon Code: 17C182DF5A371B8EC053
-Name: CSS, JavaScript And Python Complete Course
-Udemy Link: https://www.udemy.com/course/css-javascript-and-python-complete-course/?couponCode=9A90999FB360CD919BBF
-Coupon Code: 9A90999FB360CD919BBF
-Name: Postgraduate Executive Diploma: General Management
+Name: Executive Diploma in General Management
 Udemy Link: https://www.udemy.com/course/postgraduate-executive-diploma-general-management/?couponCode=56F89EC0E28A0E1939AF
 Coupon Code: 56F89EC0E28A0E1939AF
 Name: AWS Certified Cloud Practitioner (CLF-C02) Practice Exams
 Udemy Link: https://www.udemy.com/course/aws-certified-cloud-practitioner-clf-c02-practice-exams-e/?couponCode=PASSED3
 Coupon Code: PASSED3
-Name: Certified Data Management Professional (CDMP) - Associate
-Udemy Link: https://www.udemy.com/course/certified-data-management-professional-cdmp-associate/?couponCode=OCT082024GOODIES
-Coupon Code: OCT082024GOODIES
 Name: Presentations with ChatGPT
 Udemy Link: https://www.udemy.com/course/presentations-with-chatgpt-aec/?couponCode=9C355E48CEDBCD816018
 Coupon Code: 9C355E48CEDBCD816018
-Name: Postgraduate Executive Diploma: Leadership
+Name: Executive Diploma in Leadership
 Udemy Link: https://www.udemy.com/course/postgraduate-executive-diploma-leadership/?couponCode=29C681518E7A16F2D317
 Coupon Code: 29C681518E7A16F2D317
 Name: تعلم نطق اللغة الإنجليزية - صوتيات اللغة
@@ -76,39 +346,18 @@ Coupon Code: 4VALUE
 Name: NGINX, Apache, SSL Encryption - Certification Course
 Udemy Link: https://www.udemy.com/course/nginx-apache-ssl-encryption-certification-course/?couponCode=OCT082024GOODIES
 Coupon Code: OCT082024GOODIES
-Name: Introduction To CSS Flexbox
-Udemy Link: https://www.udemy.com/course/introduction-to-css-flexbox/?couponCode=CBA7C9BABC785CF33A6D
-Coupon Code: CBA7C9BABC785CF33A6D
-Name: Postgraduate Executive Diploma: Consumer Lending Business
+Name: Executive Diploma in Consumer Lending Business
 Udemy Link: https://www.udemy.com/course/consumer_lending/?couponCode=C6B7727723F9F64905F5
 Coupon Code: C6B7727723F9F64905F5
-Name: Windows Server with Powershell: Fundamentals
-Udemy Link: https://www.udemy.com/course/windows-server-2016-with-powershell-fundamentals/?couponCode=22EC352C4F6DC34A10E0
-Coupon Code: 22EC352C4F6DC34A10E0
-Name: CentOS Linux and Ubuntu Linux: Managing Packages
-Udemy Link: https://www.udemy.com/course/centos-and-ubuntu-managing-packages/?couponCode=5D823C2F729692B906B4
-Coupon Code: 5D823C2F729692B906B4
-Name: PHP with MySQL 2023: Build a Complete Job Portal
-Udemy Link: https://www.udemy.com/course/php-with-mysql-2022-build-a-complete-job-portal/?couponCode=PHPJOBPORTAL71
-Coupon Code: PHPJOBPORTAL71
-Name: Omnichannel Sales & Service Management with AI & Chat Bots
+Name: Professional Diploma in Omnichannel Sales&Service Management
 Udemy Link: https://www.udemy.com/course/omnichannel-sales-service-management-with-ai-chat-bots/?couponCode=5998E2E285E8985E424E
 Coupon Code: 5998E2E285E8985E424E
-Name: 30 HTML CSS & JavaScript Projects A Beginner's Guide to JS
-Udemy Link: https://www.udemy.com/course/30-html-css-javascript-projects-a-beginners-guide-to-js/?couponCode=605B89E2EF7EE39A55E6
-Coupon Code: 605B89E2EF7EE39A55E6
 Name: Professional Diploma in Corporate Management
 Udemy Link: https://www.udemy.com/course/corporate_management/?couponCode=2D1DC543C04E3FBE8CAA
 Coupon Code: 2D1DC543C04E3FBE8CAA
-Name: Pentaho for ETL & Data Integration Masterclass 2021- PDI 9.0
-Udemy Link: https://www.udemy.com/course/pentaho-for-etl-data-integration-masterclass/?couponCode=OCTOBERLEARN
-Coupon Code: OCTOBERLEARN
 Name: Information Security Fundamentals
 Udemy Link: https://www.udemy.com/course/infosec-fundamentals/?couponCode=OCTBR24
 Coupon Code: OCTBR24
-Name: Microsoft PowerBI Masterclass Edition(Latest Version Aug'23)
-Udemy Link: https://www.udemy.com/course/microsoft-powerbi-masterclass-latest-version/?couponCode=OCT_2024
-Coupon Code: OCT_2024
 Name: Google Data Studio Complete Beginners to Advanced Tutorial
 Udemy Link: https://www.udemy.com/course/google-data-studio-complete-beginners-to-advanced-tutorial/?couponCode=OCT_2024
 Coupon Code: OCT_2024
@@ -130,24 +379,6 @@ Coupon Code: PSMEXPOCT162024
 Name: Postgraduate Diploma: Project Management
 Udemy Link: https://www.udemy.com/course/project-managers/?couponCode=4A46E3A56C6B0DA4932C
 Coupon Code: 4A46E3A56C6B0DA4932C
-Name: Latest 2024 CCNA Q&A Mastery: Ace the 200-301 Exam
-Udemy Link: https://www.udemy.com/course/ccna-200-301-exam-success-expert-answers-explanations/?couponCode=0C284E73D86A477E68D0
-Coupon Code: 0C284E73D86A477E68D0
-Name: Microsoft Excel Pivot Tables With Formulas & Functions
-Udemy Link: https://www.udemy.com/course/microsoft-excel-pivot-tables-with-formulas-functions/?couponCode=BISMILLAH13
-Coupon Code: BISMILLAH13
-Name: The Complete Microsoft Excel Data Analysis Bootcamp
-Udemy Link: https://www.udemy.com/course/the-complete-microsoft-excel-data-analysis-bootcamp/?couponCode=BISMILLAH_06
-Coupon Code: BISMILLAH_06
-Name: The Complete Google Forms Course - Mastering Google Forms
-Udemy Link: https://www.udemy.com/course/the-complete-google-forms-course-mastering-google-forms/?couponCode=BISMILLAH29
-Coupon Code: BISMILLAH29
-Name: Adobe Photoshop CC: Essentials Photoshop Course Zero to Hero
-Udemy Link: https://www.udemy.com/course/adobe-photoshop-cc-essentials-photoshop-course-zero-to-hero/?couponCode=18F837104EA04E311EB2
-Coupon Code: 18F837104EA04E311EB2
-Name: Modern C++: Beginner to Practitioner (includes C++ 20)
-Udemy Link: https://www.udemy.com/course/practical-modern-cpp-masterclass/?couponCode=E15F5DD5313C88C4398F
-Coupon Code: E15F5DD5313C88C4398F
 Name: Wordpress (No Coding), Domain not Needed, within 3.5 hours
 Udemy Link: https://www.udemy.com/course/wordpress-no-coding-domain-not-needed-within-three-and-a-half-hours/?couponCode=12OCT24
 Coupon Code: 12OCT24
@@ -223,12 +454,6 @@ Coupon Code: F9DDE876DE9A6C69F4FF
 Name: Postgraduate Diploma: CRM Platform Expert
 Udemy Link: https://www.udemy.com/course/crm-at-sales-service-marketing-and-business-management/?couponCode=EFC5168100D3CC2EDA04
 Coupon Code: EFC5168100D3CC2EDA04
-Name: Build a Modern REST API with PHP 8
-Udemy Link: https://www.udemy.com/course/build-modern-php-api/?couponCode=6E5253BFB0CC137AB182
-Coupon Code: 6E5253BFB0CC137AB182
-Name: Build a full user Web app from scratch with vanilla PHP 8+
-Udemy Link: https://www.udemy.com/course/create-real-world-php-webapp-from-scratch/?couponCode=A919AE35F3C2E8CB8685
-Coupon Code: A919AE35F3C2E8CB8685
 Name: Postgraduate Diploma: Digitalization of Retail Banking
 Udemy Link: https://www.udemy.com/course/digitisation/?couponCode=4E1DA7A15B84A95123E2
 Coupon Code: 4E1DA7A15B84A95123E2
@@ -274,9 +499,6 @@ Coupon Code: OCT_2024
 Name: Basics of Pricing (Arabic) سلسلة التسويق: أساسيات التسعير
 Udemy Link: https://www.udemy.com/course/basics-of-pricing-arabic/?couponCode=OCT24FR1
 Coupon Code: OCT24FR1
-Name: AutoCAD 3D | AutoCAD Civil & Architectural
-Udemy Link: https://www.udemy.com/course/autocad-3d-autocad-civil-architectural/?couponCode=CAD3DOCT24
-Coupon Code: CAD3DOCT24
 Name: AWS Solutions Architect  Associate SAA-C03 Practice Exams
 Udemy Link: https://www.udemy.com/course/aws-solutions-architect-associate-saa-c03-practice-exams-l/?couponCode=PASSED1
 Coupon Code: PASSED1
@@ -295,9 +517,6 @@ Coupon Code: ECCA0F02202A8C0E3AB1
 Name: كيف تحقق دخل عبر وسائل التواصل الاجتماعي
 Udemy Link: https://www.udemy.com/course/socialmediaincome/?couponCode=AEE626B1D51D6E453071
 Coupon Code: AEE626B1D51D6E453071
-Name: Master TOEFL in 30 days (NEW VERSION)
-Udemy Link: https://www.udemy.com/course/prepare-for-the-toefl-in-30-days-without-wasting-a-dollar/?couponCode=1F409A7C82A4632070C0
-Coupon Code: 1F409A7C82A4632070C0
 Name: Cómo Crear un Embudo de Ventas con WordPress Desde Cero
 Udemy Link: https://www.udemy.com/course/como-crear-un-embudo-de-ventas-con-wordpress-desde-cero/?couponCode=EMB
 Coupon Code: EMB
@@ -331,9 +550,6 @@ Coupon Code: 146E9A9CBAF37AFF1BBD
 Name: HTML Practice Test for Certification, Exams & Interviews
 Udemy Link: https://www.udemy.com/course/html-practice-test-for-certification-exams-interviews/?couponCode=20905F2E26A42121EFD0
 Coupon Code: 20905F2E26A42121EFD0
-Name: 21 day kikfit program for body, mind and soul ACCREDITED
-Udemy Link: https://www.udemy.com/course/21-day-kikfit-program-for-body-mind-and-soul-accredited/?couponCode=A6E2FED90A2BADB9BB82
-Coupon Code: A6E2FED90A2BADB9BB82
 Name: 4 MS Excel Certification Practice Test & Interview Question
 Udemy Link: https://www.udemy.com/course/4-ms-excel-certification-practice-test-interview-question/?couponCode=A95A2E489079A61557E5
 Coupon Code: A95A2E489079A61557E5
@@ -367,12 +583,6 @@ Coupon Code: CEE794DCD5C911573F76
 Name: Certificado Profissional em Gestão de Projetos
 Udemy Link: https://www.udemy.com/course/certificado-profissional-em-gestao-de-projetos/?couponCode=39570F0B027DB8715CCD
 Coupon Code: 39570F0B027DB8715CCD
-Name: The Ultimate Microsoft Excel: Essential Comprehensive Guide
-Udemy Link: https://www.udemy.com/course/the-ultimate-microsoft-excel-essential-comprehensive-guide/?couponCode=A5298200834C29164DBA
-Coupon Code: A5298200834C29164DBA
-Name: Learn Advanced Excel: Formulas, Functions, VBA Macros
-Udemy Link: https://www.udemy.com/course/learn-advanced-excel-formulas-functions-vba-macros/?couponCode=B70802403CF818F9091C
-Coupon Code: B70802403CF818F9091C
 Name: Public Relations: Crisis Communications Oil and Gas Industry
 Udemy Link: https://www.udemy.com/course/crisis-communications-training-for-oil-and-gas-executives/?couponCode=F1446959BEE16E4002DC
 Coupon Code: F1446959BEE16E4002DC
@@ -388,9 +598,1008 @@ Coupon Code: C9FFDD461B83AD33F4CB
 Name: Fundraising: Ask and Raise Contributions for Your Charity
 Udemy Link: https://www.udemy.com/course/fundraising-ask-and-raise-contributions-for-your-charity/?couponCode=0EC5428030227110D3A6
 Coupon Code: 0EC5428030227110D3A6
-Name: AI Poetry Course: Write Beautiful Poems With ChatGPT
-Udemy Link: https://www.udemy.com/course/ai-poetry-course-write-beautiful-poems-with-chatgpt/?couponCode=AIPOETOCT2024
-Coupon Code: AIPOETOCT2024
 Name: Executive Certificate in Digital Transformation
 Udemy Link: https://www.udemy.com/course/executive-certificate-in-digital-transformation/?couponCode=D04084DD91060B5A117A
 Coupon Code: D04084DD91060B5A117A
+Name: Youtube Masterclass With Video Editing and Graphics Design
+Udemy Link: https://www.udemy.com/course/youtube-masterclass-with-video-editing-and-graphics-design/?couponCode=0D87249B86398C84201D
+Coupon Code: 0D87249B86398C84201D
+Name: UIUX with Figma and Adobe XD
+Udemy Link: https://www.udemy.com/course/uiux-with-figma-and-adobe-xd/?couponCode=00070B80803259672D1A
+Coupon Code: 00070B80803259672D1A
+Name: Google Cloud Certified Professional Cloud Developer Test
+Udemy Link: https://www.udemy.com/course/google-cloud-certified-professional-cloud-developer-test/?couponCode=E2E038A941FB5B79CEA5
+Coupon Code: E2E038A941FB5B79CEA5
+Name: Business & Science Method, Analysis & Research Methodologies
+Udemy Link: https://www.udemy.com/course/business-science-method-analysis-research-methodologies/?couponCode=E9F4F0C0B5BD7F2847C3
+Coupon Code: E9F4F0C0B5BD7F2847C3
+Name: Build Complete 2022 CMS Blog in PHP MySQL Bootstrap & PDO
+Udemy Link: https://www.udemy.com/course/build-complete-2022-cms-blog-in-php-mysql-bootstrap-pdo/?couponCode=PHPBLOG61
+Coupon Code: PHPBLOG61
+Name: Quality Dimensions of a School
+Udemy Link: https://www.udemy.com/course/quality-dimensions-of-a-school/?couponCode=A39DDD5C6007BB9D39E6
+Coupon Code: A39DDD5C6007BB9D39E6
+Name: Project Management Skills Using Microsoft Project
+Udemy Link: https://www.udemy.com/course/management_ms/?couponCode=CAN2ADEL
+Coupon Code: CAN2ADEL
+Name: Python Certification Exam Microsoft MTA 98-381 - Preparation
+Udemy Link: https://www.udemy.com/course/its-303-python-certification-exam-t-specialist-preparation/?couponCode=1004CBE2BEDB51BCB8BF
+Coupon Code: 1004CBE2BEDB51BCB8BF
+Name: Harnessing AI for a social impact
+Udemy Link: https://www.udemy.com/course/harnessing-ai-for-a-social-impact/?couponCode=6CB667BF75DC05B44F72
+Coupon Code: 6CB667BF75DC05B44F72
+Name: Global Readiness: Fostering Skills For Emerging Landscape
+Udemy Link: https://www.udemy.com/course/global-readiness-fostering-skills-for-emerging-landscape/?couponCode=36BA6FA7AE63A8814D34
+Coupon Code: 36BA6FA7AE63A8814D34
+Name: The Beginner's Guide to Bash Scripting and Automation
+Udemy Link: https://www.udemy.com/course/the-beginners-guide-to-bash-scripting-and-automation/?couponCode=OCTLAST
+Coupon Code: OCTLAST
+Name: Internet-uses, advantages, disadvantages,difference with www
+Udemy Link: https://www.udemy.com/course/internet-uses-advantages-disadvantagesdifference-with-www/?couponCode=17026E922685D9F6E206
+Coupon Code: 17026E922685D9F6E206
+Name: Direct Indirect Speech
+Udemy Link: https://www.udemy.com/course/direct-indirect-speech/?couponCode=EFA6DA99671DD9833B15
+Coupon Code: EFA6DA99671DD9833B15
+Name: Tenses and its types in one shot
+Udemy Link: https://www.udemy.com/course/tenses-and-its-types-in-one-shot/?couponCode=C36F021AD0E11E85383F
+Coupon Code: C36F021AD0E11E85383F
+Name: Invitation Writing -Formal and Informal, Reply to invitation
+Udemy Link: https://www.udemy.com/course/invitation-writing-formal-and-informal-reply-to-invitation/?couponCode=D159121152151A690D23
+Coupon Code: D159121152151A690D23
+Name: Network Mastery for Ethical Hackers
+Udemy Link: https://www.udemy.com/course/network-mastery-for-ethical-hackers/?couponCode=OCTLAST
+Coupon Code: OCTLAST
+Name: Data Base Management System Class 10  I.T.
+Udemy Link: https://www.udemy.com/course/data-base-management-system-class-10-it/?couponCode=42DCF78F1B829E6B6BF2
+Coupon Code: 42DCF78F1B829E6B6BF2
+Name: Total Quality Management: Certification
+Udemy Link: https://www.udemy.com/course/total-quality-management-certification/?couponCode=DA9096B2A3B828D5FF62
+Coupon Code: DA9096B2A3B828D5FF62
+Name: Theory of Constraints: Certification
+Udemy Link: https://www.udemy.com/course/theory-of-constraints-certification/?couponCode=E1E0D7DC05245399555F
+Coupon Code: E1E0D7DC05245399555F
+Name: Professional Certificate in Project Management
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-project-management/?couponCode=B088718852831B8552DE
+Coupon Code: B088718852831B8552DE
+Name: Comprehensive ASP .NET Core MVC Practice Test: Skill Mastery
+Udemy Link: https://www.udemy.com/course/comprehensive-asp-net-core-mvc-practice-test-skill-mastery/?couponCode=DOTNETCOREFREE
+Coupon Code: DOTNETCOREFREE
+Name: SQL практикум на базе MySQL
+Udemy Link: https://www.udemy.com/course/mysql-basics-ru/?couponCode=C50EE4E1F9BC84C6C640
+Coupon Code: C50EE4E1F9BC84C6C640
+Name: Software career planning bootcamp
+Udemy Link: https://www.udemy.com/course/software-career-planning-bootcamp/?couponCode=583651A83F1D52F60734
+Coupon Code: 583651A83F1D52F60734
+Name: Teaching For Joy and Justice
+Udemy Link: https://www.udemy.com/course/teaching-for-joy-and-justice/?couponCode=A40B54F48F766B4C9C6D
+Coupon Code: A40B54F48F766B4C9C6D
+Name: Mastering Digital Wellness
+Udemy Link: https://www.udemy.com/course/mastering-digital-wellness/?couponCode=6A15AE4E855A7695015E
+Coupon Code: 6A15AE4E855A7695015E
+Name: Understanding Accent Neutralization
+Udemy Link: https://www.udemy.com/course/understanding-accent-neutralization/?couponCode=391B38E252ED556B39AE
+Coupon Code: 391B38E252ED556B39AE
+Name: 600+ Selenium Interview Questions Practice Test
+Udemy Link: https://www.udemy.com/course/selenium-interview-questions/?couponCode=A5A702024E21038690A4
+Coupon Code: A5A702024E21038690A4
+Name: JavaScript 10 Projects in 10 Days Course for Beginners
+Udemy Link: https://www.udemy.com/course/javascript-10-projects-in-10-days-course-for-beginners/?couponCode=8748954E6E702E47F7C8
+Coupon Code: 8748954E6E702E47F7C8
+Name: JavaScript 20 Projects In 20 Days HTML, CSS & JavaScript
+Udemy Link: https://www.udemy.com/course/javascript-20-projects-in-20-days-html-css-javascript/?couponCode=C50EFF24C54950997CC6
+Coupon Code: C50EFF24C54950997CC6
+Name: Certificado Profissional em Liderança e Gestão
+Udemy Link: https://www.udemy.com/course/certificado-profissional-em-lideranca-e-gestao/?couponCode=FBE7BBD1B908031D7F61
+Coupon Code: FBE7BBD1B908031D7F61
+Name: Java And C++ Complete Course for Beginners 2022
+Udemy Link: https://www.udemy.com/course/java-and-c-complete-course-for-beginners-2022/?couponCode=F6A55D41D04F4304B814
+Coupon Code: F6A55D41D04F4304B814
+Name: JavaScript And PHP Programming Complete Course
+Udemy Link: https://www.udemy.com/course/javascript-and-php-programming-complete-course/?couponCode=1815DC0E190699486CA3
+Coupon Code: 1815DC0E190699486CA3
+Name: Introdução à Gestão
+Udemy Link: https://www.udemy.com/course/introducao-a-gestao/?couponCode=F8267263DD24BCCBB0C5
+Coupon Code: F8267263DD24BCCBB0C5
+Name: Professional Certificate in Management
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-management/?couponCode=D148C4369845021446F2
+Coupon Code: D148C4369845021446F2
+Name: The Basics of Linux Command Line
+Udemy Link: https://www.udemy.com/course/the-basics-of-linux-command-line/?couponCode=7081692A09B5DAA4B745
+Coupon Code: 7081692A09B5DAA4B745
+Name: LPI Linux Essentials 010-160 Exam practice
+Udemy Link: https://www.udemy.com/course/lpi-linux-essentials-010-160-exam-questions/?couponCode=24AF76DA6C8E04E53D0C
+Coupon Code: 24AF76DA6C8E04E53D0C
+Name: Diploma: Human Resources, Compensation & Benefits Management
+Udemy Link: https://www.udemy.com/course/diploma-human-resources-compensation-benefits-management/?couponCode=18193954A100B8376C1D
+Coupon Code: 18193954A100B8376C1D
+Name: Professional Certificate in Operations Management
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-operations-management/?couponCode=ACB15FB25B684B688660
+Coupon Code: ACB15FB25B684B688660
+Name: Social Media Mastery | Increase Customer Conversion Rate
+Udemy Link: https://www.udemy.com/course/social-media-mastery-increase-customer-conversion-rate/?couponCode=AE5D6E12961852C93C33
+Coupon Code: AE5D6E12961852C93C33
+Name: Professional Certificate in Financial Analysis
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-financial-analysis/?couponCode=BD1E164E4BFA4EDD0230
+Coupon Code: BD1E164E4BFA4EDD0230
+Name: Implementation of Occupational Health and Safety in Industry
+Udemy Link: https://www.udemy.com/course/implementation-of-occupational-health-and-safety-in-industry/?couponCode=F76DBEC06AA08B083315
+Coupon Code: F76DBEC06AA08B083315
+Name: Global Wealth Management: Account Opening, Onboarding, KYC
+Udemy Link: https://www.udemy.com/course/global-wealth-management-account-opening-onboarding-kyc/?couponCode=5073886C5BFFFED66265
+Coupon Code: 5073886C5BFFFED66265
+Name: Diploma in Aviation, Airlines, Air Transportation & Airports
+Udemy Link: https://www.udemy.com/course/professional-diploma-in-aviation-airlines-air-transportation-airports/?couponCode=388BE22EE4FA3083A0F5
+Coupon Code: 388BE22EE4FA3083A0F5
+Name: YouTube Startrack For Beginners: Launch Your Channel Today
+Udemy Link: https://www.udemy.com/course/youtube-startrack-for-beginners-launch-your-channel-today/?couponCode=YOUTUBE1010
+Coupon Code: YOUTUBE1010
+Name: Land Analyst Job in Web3 VC – Intensive  Course
+Udemy Link: https://www.udemy.com/course/how-to-break-into-web3/?couponCode=LAJW1010
+Coupon Code: LAJW1010
+Name: Amazon FBA Guide: From Zero to Seller
+Udemy Link: https://www.udemy.com/course/amazon-fba-guide/?couponCode=FBA1010
+Coupon Code: FBA1010
+Name: Professional Certificate in Regulatory Compliance in Finance
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-regulatory-compliance-in-finance/?couponCode=80D46335C303F723D0C3
+Coupon Code: 80D46335C303F723D0C3
+Name: Executive Certificate in Business Management
+Udemy Link: https://www.udemy.com/course/executive-certificate-in-business-management/?couponCode=F104FBA1589741C6EDF6
+Coupon Code: F104FBA1589741C6EDF6
+Name: Curiosity and Lifelong Learning
+Udemy Link: https://www.udemy.com/course/curiosity-and-lifelong-learning-1/?couponCode=B5562989EA2FB7F6A704
+Coupon Code: B5562989EA2FB7F6A704
+Name: Overcoming Obstacles & Building Resilience as a Team
+Udemy Link: https://www.udemy.com/course/overcoming-obstacles-building-resilience-as-a-team/?couponCode=1D704D3BADC67D5C96BB
+Coupon Code: 1D704D3BADC67D5C96BB
+Name: Professional Certificate of IBM SPSS Statistics Expert
+Udemy Link: https://www.udemy.com/course/professional-certificate-of-ibm-spss-statistics-expert/?couponCode=3FE322D9DB213841E936
+Coupon Code: 3FE322D9DB213841E936
+Name: Elevate Your Leadership, Amplify Your Communication Skills
+Udemy Link: https://www.udemy.com/course/elevate-your-leadership-amplify-your-communication-skills/?couponCode=D6CBF322FE46CCA01315
+Coupon Code: D6CBF322FE46CCA01315
+Name: Learn Android App Development in Hindi Build 10 Application
+Udemy Link: https://www.udemy.com/course/learn-android-app-development-in-hindi-build-10-application/?couponCode=CA2C28612385F31DB5C0
+Coupon Code: CA2C28612385F31DB5C0
+Name: Decision Making for Leaders and Managers
+Udemy Link: https://www.udemy.com/course/decision-making-for-leaders-and-managers/?couponCode=F73A0F048B6C610173D1
+Coupon Code: F73A0F048B6C610173D1
+Name: Curso de Manualidades y Adornos Navideños
+Udemy Link: https://www.udemy.com/course/curso-de-manualidades-y-adornos-navidenos/?couponCode=MAN
+Coupon Code: MAN
+Name: Cómo Crear un Blog con Inteligencia Artificial
+Udemy Link: https://www.udemy.com/course/como-crear-un-blog-con-inteligencia-artificial/?couponCode=BLOG
+Coupon Code: BLOG
+Name: Crea una Página Web con Elementor Pro y el Tema Hello
+Udemy Link: https://www.udemy.com/course/crea-una-pagina-web-con-elementor-pro-y-el-tema-hello/?couponCode=EL
+Coupon Code: EL
+Name: Cómo Crear un Blog con WordPress Para Principiantes 2023
+Udemy Link: https://www.udemy.com/course/como-crear-un-blog-con-wordpress-para-principiantes/?couponCode=BLOG
+Coupon Code: BLOG
+Name: Máster en Diseño Web con Inteligencia Artificial
+Udemy Link: https://www.udemy.com/course/master-en-diseno-web-con-inteligencia-artificial/?couponCode=MASTER
+Coupon Code: MASTER
+Name: Máster en Comercio Electrónico con WordPress
+Udemy Link: https://www.udemy.com/course/master-en-comercio-electronico-con-wordpress/?couponCode=MASTER
+Coupon Code: MASTER
+Name: Healthy living with "No Oil" Recipes - Non Vegetarian
+Udemy Link: https://www.udemy.com/course/no-oil-cooking-meat-recipes-no-cholesterol-fat-free-food/?couponCode=OCT2024FREE1
+Coupon Code: OCT2024FREE1
+Name: Harnessing AI and Machine Learning for Geospatial Analysis
+Udemy Link: https://www.udemy.com/course/ai-for-geospatial-analysis/?couponCode=81D6028A697F8DD85605
+Coupon Code: 81D6028A697F8DD85605
+Name: Executive Certificate in Sales Management
+Udemy Link: https://www.udemy.com/course/executive-certificate-in-sales-management/?couponCode=5A59F6491D4D57E5D4D2
+Coupon Code: 5A59F6491D4D57E5D4D2
+Name: Python A-Z: Learn Python for Scientific Research by Doing
+Udemy Link: https://www.udemy.com/course/python-for-researchers/?couponCode=1D5C0AA16A7C0B196D52
+Coupon Code: 1D5C0AA16A7C0B196D52
+Name: How To Use R for Research
+Udemy Link: https://www.udemy.com/course/r-for-research/?couponCode=42824C64C08BBFACDFAA
+Coupon Code: 42824C64C08BBFACDFAA
+Name: Programming for Scientific Research with Python and R
+Udemy Link: https://www.udemy.com/course/programming-for-scientific-research/?couponCode=34C5F7234D26C02558D9
+Coupon Code: 34C5F7234D26C02558D9
+Name: The Python Programming For Everyone Immersive Training
+Udemy Link: https://www.udemy.com/course/the-python-programming-for-anyone-immersive-training/?couponCode=C0BB64DE8805DC07D7F7
+Coupon Code: C0BB64DE8805DC07D7F7
+Name: Intermediate Python Immersive Training | Boost your career
+Udemy Link: https://www.udemy.com/course/the-intermediate-python-training-boost-your-python-skills/?couponCode=4F5905F1C808BB8D7872
+Coupon Code: 4F5905F1C808BB8D7872
+Name: The Python Programming A-Z Definitive Diploma in 2021
+Udemy Link: https://www.udemy.com/course/the-ultimate-python-programming-a-z-masterclass/?couponCode=9990EFFF860679CB9971
+Coupon Code: 9990EFFF860679CB9971
+Name: [New] Python Programming - The Complete Guide [2021 Edition]
+Udemy Link: https://www.udemy.com/course/new-python-programming-the-complete-guide-2021-edition/?couponCode=61709BDB0ECAF60AE58F
+Coupon Code: 61709BDB0ECAF60AE58F
+Name: Applied Python: Tiny Python Projects Fast & Effective Course
+Udemy Link: https://www.udemy.com/course/applied-python-tiny-python-projects-fast-effective-course/?couponCode=5CD04E227A9692EF765A
+Coupon Code: 5CD04E227A9692EF765A
+Name: Advanced Foundations of Python Programming | 2021 Training
+Udemy Link: https://www.udemy.com/course/advanced-foundations-of-python-programming-complete-training/?couponCode=A729E9CDF9F989F4B928
+Coupon Code: A729E9CDF9F989F4B928
+Name: The R Programming for Everyone A-Z Comprehensive Bootcamp
+Udemy Link: https://www.udemy.com/course/the-r-programming-for-everyone-a-z-comprehensive-bootcamp/?couponCode=098F45980B2AEE4F8ED0
+Coupon Code: 098F45980B2AEE4F8ED0
+Name: The Complete ChatGPT Guide From Zero to Hero - 2023
+Udemy Link: https://www.udemy.com/course/the-complete-chatgpt-guide-from-zero-to-hero-2023/?couponCode=CHATGPT
+Coupon Code: CHATGPT
+Name: Complete Payroll Management in Excel &TALLY ERP9 &TallyPrime
+Udemy Link: https://www.udemy.com/course/complete-payroll-management-in-microsoft-excel-tally-erp9/?couponCode=MUBPAYMAN
+Coupon Code: MUBPAYMAN
+Name: Graphics Design and Video Editing Course for Beginner
+Udemy Link: https://www.udemy.com/course/graphics-design-and-video-editing-course-for-beginner/?couponCode=EEFAF83A53B9D62714B7
+Coupon Code: EEFAF83A53B9D62714B7
+Name: Adobe Illustrator Course For Beginner
+Udemy Link: https://www.udemy.com/course/adobe-illustrator-course-for-beginner/?couponCode=DF7777E477CBDEB07521
+Coupon Code: DF7777E477CBDEB07521
+Name: Capcut Ninja: Mastering Video Editing Basics to Advanced
+Udemy Link: https://www.udemy.com/course/capcut-ninja-mastering-video-editing-basics-to-advanced/?couponCode=C4E33C0EC849F4C98E03
+Coupon Code: C4E33C0EC849F4C98E03
+Name: Learn Coding with C# from Scratch | C# Comprehensive Course
+Udemy Link: https://www.udemy.com/course/learn-coding-with-c-from-scratch-c-comprehensive-course/?couponCode=603A7B0F68C1EE166515
+Coupon Code: 603A7B0F68C1EE166515
+Name: Learn Coding with Java from Scratch: Essential Training 2022
+Udemy Link: https://www.udemy.com/course/learn-coding-with-java-from-scratch-essential-training-2022/?couponCode=1E026760FBAD1503D1E2
+Coupon Code: 1E026760FBAD1503D1E2
+Name: Object-Oriented Programming with Python: Code Faster in 2022
+Udemy Link: https://www.udemy.com/course/object-oriented-programming-with-python-learn-to-code-faster/?couponCode=43F5D62EFB0850FA0B19
+Coupon Code: 43F5D62EFB0850FA0B19
+Name: Coding Basics 2023: Gentle Intro to Computer Programming
+Udemy Link: https://www.udemy.com/course/coding-basics-gentle-intro-to-coding-for-beginners/?couponCode=ACAFB258F54621AEA6D2
+Coupon Code: ACAFB258F54621AEA6D2
+Name: Diploma Executivo em Liderança
+Udemy Link: https://www.udemy.com/course/diploma-executivo-em-lideranca/?couponCode=0E260426CE13304013A0
+Coupon Code: 0E260426CE13304013A0
+Name: Data Analyst Skill path in Hindi - हिंदी में सीखें
+Udemy Link: https://www.udemy.com/course/data-analyst-skill-path-in-hindi/?couponCode=OCTOBERLEARN
+Coupon Code: OCTOBERLEARN
+Name: SQL for Data Analytics in Hindi - हिंदी में सीखें SQL A-Z
+Udemy Link: https://www.udemy.com/course/sql-in-hindi/?couponCode=OCTOBERLEARN
+Coupon Code: OCTOBERLEARN
+Name: Master SPC Control Charts using MS Excel
+Udemy Link: https://www.udemy.com/course/master-spc-control-charts-using-ms-excel/?couponCode=OCTOBERLEARN
+Coupon Code: OCTOBERLEARN
+Name: LookML A-Z: Google Looker for Developers
+Udemy Link: https://www.udemy.com/course/lookml-google-looker-for-developers/?couponCode=OCTOBERLEARN
+Coupon Code: OCTOBERLEARN
+Name: Linear Regression Analysis using Python: ML Basics (हिंदी)
+Udemy Link: https://www.udemy.com/course/linear-regression-analysis-using-python-hindi/?couponCode=OCTOBERLEARN
+Coupon Code: OCTOBERLEARN
+Name: Google Looker Masterclass: Looker & LookML A-Z 2022
+Udemy Link: https://www.udemy.com/course/google-looker-lookml/?couponCode=OCTOBERLEARN
+Coupon Code: OCTOBERLEARN
+Name: Skills Economy: Transforming to a Skills-based Organization
+Udemy Link: https://www.udemy.com/course/skills-economy-transforming-to-a-skills-based-organization/?couponCode=1FFECB3E5953C00FD14C
+Coupon Code: 1FFECB3E5953C00FD14C
+Name: The Art of Building and Sustaining Meaningful Relationships
+Udemy Link: https://www.udemy.com/course/the-art-of-building-and-sustaining-meaningful-relationships/?couponCode=A9791CCE6BBFCCB9B0CE
+Coupon Code: A9791CCE6BBFCCB9B0CE
+Name: مهارات توظيف الإنفوجرافيك لتصميم العروض التقديمة الاحترافية
+Udemy Link: https://www.udemy.com/course/skills_infographics/?couponCode=CANADEL
+Coupon Code: CANADEL
+Name: تعلم التحليل الأساسي في التداول في سوق العملات
+Udemy Link: https://www.udemy.com/course/fundamentalanalysis/?couponCode=4F443C19A051B7FA8F7B
+Coupon Code: 4F443C19A051B7FA8F7B
+Name: Professional Certificate in Customer Experience Management
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-customer-experience-management/?couponCode=D74ECB13238FAAB610F2
+Coupon Code: D74ECB13238FAAB610F2
+Name: Apprenez l'anglais avec Jessy
+Udemy Link: https://www.udemy.com/course/apprenez-langlais-avec-jessy/?couponCode=FAB061549AB681739674
+Coupon Code: FAB061549AB681739674
+Name: Professional Certificate in Marketing & Marketing Management
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-marketing-and-marketing-management/?couponCode=42A8569A64D8DECD13B5
+Coupon Code: 42A8569A64D8DECD13B5
+Name: Master Android Application Build 3 Applications from Scratch
+Udemy Link: https://www.udemy.com/course/master-android-application-build-3-applications-from-scratch/?couponCode=1EA057E526526FED010D
+Coupon Code: 1EA057E526526FED010D
+Name: Android Very Basic App Development Course with Java in Hindi
+Udemy Link: https://www.udemy.com/course/android-very-basic-app-development-course-with-java-in-hindi/?couponCode=36F922B007E307B9BD98
+Coupon Code: 36F922B007E307B9BD98
+Name: Android Projects Course Build 3 Applications from Scratch
+Udemy Link: https://www.udemy.com/course/android-projects-course-build-3-applications-from-scratch/?couponCode=1501DAABEC90F7174871
+Coupon Code: 1501DAABEC90F7174871
+Name: Chatbot
+Udemy Link: https://www.udemy.com/course/chatbot-development/?couponCode=49766CB1E927DC4CB93B
+Coupon Code: 49766CB1E927DC4CB93B
+Name: 18 Crucial Cyber Security Tips
+Udemy Link: https://www.udemy.com/course/18-crucial-cyber-security-tips/?couponCode=A2EEB3DECC26D5FA3901
+Coupon Code: A2EEB3DECC26D5FA3901
+Name: Professional Certificate in SMM Social Media Marketing
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-smm-social-media-marketing/?couponCode=1EF419C0E46FFF7D901D
+Coupon Code: 1EF419C0E46FFF7D901D
+Name: 600+ VMware Interview Questions Practice Test
+Udemy Link: https://www.udemy.com/course/vmware-interview-questions/?couponCode=D64B14ED2C98258DCB20
+Coupon Code: D64B14ED2C98258DCB20
+Name: Python Development and Python Programming Fundamentals
+Udemy Link: https://www.udemy.com/course/python-development-and-python-programming-fundamentals/?couponCode=E295F9D011E8617AD7F5
+Coupon Code: E295F9D011E8617AD7F5
+Name: Learn Salesforce (Admin + Developer) with LWC Live Project
+Udemy Link: https://www.udemy.com/course/learn-salesforce-admin-developer-with-lwc-live-project/?couponCode=0A35D21214CCCB15D854
+Coupon Code: 0A35D21214CCCB15D854
+Name: Defining Project Scope and Managing Resources for Project
+Udemy Link: https://www.udemy.com/course/defining-project-scope-and-managing-resources-for-project/?couponCode=FBA201F810D1E67A9AE9
+Coupon Code: FBA201F810D1E67A9AE9
+Name: Start a Profitable AI Automation Agency [AAA Blueprint]
+Udemy Link: https://www.udemy.com/course/ai-automation-agency/?couponCode=MASHALLAH006
+Coupon Code: MASHALLAH006
+Name: Start a Profitable Affiliate Coupons Website -Passive Income
+Udemy Link: https://www.udemy.com/course/start-a-profitable-discount-coupons-website-passive-income/?couponCode=MASHALLAH006
+Coupon Code: MASHALLAH006
+Name: Shopify SEO 2024: Boost Store Traffic & Conversions using AI
+Udemy Link: https://www.udemy.com/course/shopify-seo-course/?couponCode=MASHALLAH006
+Coupon Code: MASHALLAH006
+Name: Print on Demand 2023: From Zero to Profitable Business
+Udemy Link: https://www.udemy.com/course/print-on-demand-course/?couponCode=MASHALLAH006
+Coupon Code: MASHALLAH006
+Name: Become Successful WordPress Freelancer to Make Money Online
+Udemy Link: https://www.udemy.com/course/become-successful-wordpress-freelancer-to-make-money-online/?couponCode=MASHALLAH006
+Coupon Code: MASHALLAH006
+Name: Start Freelance Graphic Designing using Canva & Get Clients
+Udemy Link: https://www.udemy.com/course/canva-mastery-become-freelance-graphic-designer-in-1-hour/?couponCode=MASHALLAH006
+Coupon Code: MASHALLAH006
+Name: Learn Content Writing using AI & Start Freelancing
+Udemy Link: https://www.udemy.com/course/ai-content-writing/?couponCode=MASHALLAH006
+Coupon Code: MASHALLAH006
+Name: Comprehensive JavaScript MCQs: From Basic to Advance
+Udemy Link: https://www.udemy.com/course/comprehensive-javascript-mcqs-from-basic-to-advance/?couponCode=GETJSFREE
+Coupon Code: GETJSFREE
+Name: Professional Certificate: Product Management and Development
+Udemy Link: https://www.udemy.com/course/professional-certificate-product-management-and-development/?couponCode=2506342174131CE168FB
+Coupon Code: 2506342174131CE168FB
+Name: Executive Certificate in Company Direction
+Udemy Link: https://www.udemy.com/course/executive-certificate-in-company-direction/?couponCode=D3D03853B8669F5DC36C
+Coupon Code: D3D03853B8669F5DC36C
+Name: Learn Dynamo in Revit : Zero to Hero in Hindi
+Udemy Link: https://www.udemy.com/course/learn-dynamo-in-revit-zero-to-hero-in-hindi/?couponCode=F63282449732E0B4137D
+Coupon Code: F63282449732E0B4137D
+Name: Java And PHP Complete Course
+Udemy Link: https://www.udemy.com/course/java-and-php-complete-course/?couponCode=1429EF1D6C6CF474EE91
+Coupon Code: 1429EF1D6C6CF474EE91
+Name: OSINT: Content Discovery
+Udemy Link: https://www.udemy.com/course/osint-content-discovery/?couponCode=JULILU
+Coupon Code: JULILU
+Name: Android Malware Analysis
+Udemy Link: https://www.udemy.com/course/android-malware-analysis-course/?couponCode=JULILU
+Coupon Code: JULILU
+Name: Certificate in Public Relations and Communication Management
+Udemy Link: https://www.udemy.com/course/certificate-in-public-relations-and-communication-management/?couponCode=A04DC3A98EEA0A43FC52
+Coupon Code: A04DC3A98EEA0A43FC52
+Name: Learn JavaScript by Creating 10 Practical Projects
+Udemy Link: https://www.udemy.com/course/learn-javascript-by-creating-10-practical-projects/?couponCode=27136D9C3F0A75A94545
+Coupon Code: 27136D9C3F0A75A94545
+Name: Boost Your Portfolio with 20 HTML, CSS & JavaScript Projects
+Udemy Link: https://www.udemy.com/course/boost-your-portfolio-with-20-html-css-javascript-projects/?couponCode=AD9C24918335784D94F2
+Coupon Code: AD9C24918335784D94F2
+Name: Estratégia e Desenvolvimento de Produtos
+Udemy Link: https://www.udemy.com/course/empresa-estrategia-e-desenvolvimento-de-produtos/?couponCode=2AFE1A6729C4481F4AAB
+Coupon Code: 2AFE1A6729C4481F4AAB
+Name: Salesforce LWC (Lightning Web Component) with Live Project
+Udemy Link: https://www.udemy.com/course/salesforce-lwc-lightning-web-component-with-live-project/?couponCode=CF4B9CA00094CB1AE030
+Coupon Code: CF4B9CA00094CB1AE030
+Name: Professional Diploma of Mortgage and Lending Broker
+Udemy Link: https://www.udemy.com/course/professional-diploma-of-mortgage-and-lending-broker/?couponCode=95DB98505CF7916351BF
+Coupon Code: 95DB98505CF7916351BF
+Name: Professional Certificate in Career Coaching
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-career-coaching/?couponCode=A03D3D749C5E8935F3C3
+Coupon Code: A03D3D749C5E8935F3C3
+Name: Professional Certificate in Coaching
+Udemy Link: https://www.udemy.com/course/professional-certificate-in-coaching/?couponCode=05E995FA01ACCF821FD5
+Coupon Code: 05E995FA01ACCF821FD5
+Name: Estratégia e Desenvolvimento de Produtos
+Udemy Link: https://www.udemy.com/course/estrategia-e-desenvolvimento-de-produtos/?couponCode=23FF0C1F28AB36071870
+Coupon Code: 23FF0C1F28AB36071870
+Name: Executive Certificate in Business Leadership
+Udemy Link: https://www.udemy.com/course/executive-certificate-in-business-leadership/?couponCode=7AEE3E87DE63AC401DA2
+Coupon Code: 7AEE3E87DE63AC401DA2
+Name: Sales: Your First 90 Days as a New Sales Representative
+Udemy Link: https://www.udemy.com/course/sales-your-first-90-days-as-a-new-sales-representative/?couponCode=CD44EA7B14A846370B36
+Coupon Code: CD44EA7B14A846370B36
+Name: Persuasive Storytelling for Product Managers
+Udemy Link: https://www.udemy.com/course/persuasive-storytelling-for-product-managers/?couponCode=CBF8790A6F916F3F669D
+Coupon Code: CBF8790A6F916F3F669D
+Name: The Ultimate Guide for Beginners in Photo Editing
+Udemy Link: https://www.udemy.com/course/skylum_photo/?couponCode=FREEUG0910
+Coupon Code: FREEUG0910
+Name: Master Landscape Photo Editing From Scratch
+Udemy Link: https://www.udemy.com/course/landscape-photo-editing/?couponCode=SKYLUM0910
+Coupon Code: SKYLUM0910
+Name: Enhance Lightroom Editing with the Luminar Neo Plugin
+Udemy Link: https://www.udemy.com/course/enhance-lightroom-editing-with-the-luminar-neo-plugin/?couponCode=EL0910
+Coupon Code: EL0910
+Name: Master Lead Generation: Grow Subscribers & Sales with Popups
+Udemy Link: https://www.udemy.com/course/master-lead-generation-grow-subscribers-sales-with-popups/?couponCode=POPUPFREE0910
+Coupon Code: POPUPFREE0910
+Name: استراتيجية التداول بالأموال الذكية SMC
+Udemy Link: https://www.udemy.com/course/tradingforex-smc/?couponCode=5DAB2C3CBC11A815EDF6
+Coupon Code: 5DAB2C3CBC11A815EDF6
+Name: Grief Coaching & Certification
+Udemy Link: https://www.udemy.com/course/overcoming-grief/?couponCode=977C0FBE72812754B9A1
+Coupon Code: 977C0FBE72812754B9A1
+Name: Developing successful Professional Relationships
+Udemy Link: https://www.udemy.com/course/developing-successful-professional-relationships/?couponCode=DEVSUCPROFREL10
+Coupon Code: DEVSUCPROFREL10
+Name: Introduction to Financial Controls
+Udemy Link: https://www.udemy.com/course/introduction-to-financial-controls/?couponCode=INTROFC06
+Coupon Code: INTROFC06
+Name: Navigating the Crypto Universe
+Udemy Link: https://www.udemy.com/course/navigating-the-crypto-universe-and-blockchain/?couponCode=79047D42055EFA2F4A78
+Coupon Code: 79047D42055EFA2F4A78
+Name: Complete Gmail Productivity Course -  More Productive Email
+Udemy Link: https://www.udemy.com/course/complete-gmail-productivity-course-more-productive-email/?couponCode=21F934D0711B4573B52F
+Coupon Code: 21F934D0711B4573B52F
+Name: The Complete Persian Language Course with Weekly Meeting
+Udemy Link: https://www.udemy.com/course/persian-language-course/?couponCode=493960E6EAEBE8FF58B9
+Coupon Code: 493960E6EAEBE8FF58B9
+Name: Professional Diploma: Customer Centricity & Design Thinking
+Udemy Link: https://www.udemy.com/course/professional-diploma-customer-centricity-and-design-thinking/?couponCode=0FD0C1ED320FD5CB908A
+Coupon Code: 0FD0C1ED320FD5CB908A
+Name: Empathy and Emotional Intelligence for Project Managers
+Udemy Link: https://www.udemy.com/course/empathy-and-emotional-intelligence-for-project-managers/?couponCode=EMEIPM06
+Coupon Code: EMEIPM06
+Name: JavaScript Projects Course Build 20 Projects in 20 Days
+Udemy Link: https://www.udemy.com/course/javascript-projects-course-build-20-projects-in-20-days/?couponCode=29D03A1C64F225360B51
+Coupon Code: 29D03A1C64F225360B51
+Name: Cómo Crear una Academia Online con WordPress y Tutor LMS
+Udemy Link: https://www.udemy.com/course/como-crear-una-academia-online-con-wordpress-y-tutor-lms/?couponCode=TUTOR
+Coupon Code: TUTOR
+Name: Mini MBA in Product Development and Management
+Udemy Link: https://www.udemy.com/course/mini-mba-in-product-development-and-management/?couponCode=C6F3C87ED16378AA3E8C
+Coupon Code: C6F3C87ED16378AA3E8C
+Name: Chief Executive Officer (CEO) Program
+Udemy Link: https://www.udemy.com/course/ceo-chief-executive-officer-program/?couponCode=CBC2813C2318A46DC091
+Coupon Code: CBC2813C2318A46DC091
+Name: 700-265: Implementing Cisco Edge Network Security Solutions
+Udemy Link: https://www.udemy.com/course/700-265-implementing-cisco-edge-network-security-solutions/?couponCode=FD7775855E2D48506D39
+Coupon Code: FD7775855E2D48506D39
+Name: Elementor Kits: Crea una Página Web con Elementor Pro
+Udemy Link: https://www.udemy.com/course/elementor-kits-crea-una-pagina-web-con-elementor-pro/?couponCode=ELE
+Coupon Code: ELE
+Name: Cómo Crear una Tienda Online con Inteligencia Artificial
+Udemy Link: https://www.udemy.com/course/como-crear-una-tienda-online-con-inteligencia-artificial/?couponCode=TIENDA
+Coupon Code: TIENDA
+Name: Cómo Crear una Página Web Para Amazon Afiliados 2024
+Udemy Link: https://www.udemy.com/course/como-crear-una-pagina-web-para-amazon-afiliados/?couponCode=AMA
+Coupon Code: AMA
+Name: Elementor IA: Crea una Web con WordPress y Elementor
+Udemy Link: https://www.udemy.com/course/elementor-ia-crea-una-web-con-wordpress-y-elementor/?couponCode=ELEMENTOR
+Coupon Code: ELEMENTOR
+Name: Exploring Navisworks: BIM Tutorials from Basics to Advanced
+Udemy Link: https://www.udemy.com/course/exploring-navisworks-bim-tutorials-from-basics-to-advanced/?couponCode=NAVISTUTS
+Coupon Code: NAVISTUTS
+Name: Autodesk AutoCAD Electrical for Electrical Designers
+Udemy Link: https://www.udemy.com/course/autodesk-autocad-electrical-2020-for-electrical-designers/?couponCode=CADDELECT
+Coupon Code: CADDELECT
+Name: Complete Course in AutoCAD Electrical 2021
+Udemy Link: https://www.udemy.com/course/complete-course-in-autocad-electrical-2021/?couponCode=ELECTROCADD
+Coupon Code: ELECTROCADD
+Name: Complete Course in AutoCAD Electrical 2022
+Udemy Link: https://www.udemy.com/course/complete-course-in-autocad-electrical-2022/?couponCode=ELECTROCAD
+Coupon Code: ELECTROCAD
+Name: CSS And JavaScript Complete Course For Beginners
+Udemy Link: https://www.udemy.com/course/css-and-javascript-complete-course-for-beginners/?couponCode=A6D1ABFD5265510A14C7
+Coupon Code: A6D1ABFD5265510A14C7
+Name: Python Mastery with Tabnine: AI-Enhanced Coding Efficiency
+Udemy Link: https://www.udemy.com/course/python-mastery-with-tabnine-ai-enhanced-coding-efficiency/?couponCode=TECHAI
+Coupon Code: TECHAI
+Name: Python Accelerator : Mastering Python with Google Bard AI
+Udemy Link: https://www.udemy.com/course/python-accelerator-mastering-python-with-google-bard-ai/?couponCode=TECHAI
+Coupon Code: TECHAI
+Name: Fast-track to Google Sheets Mastery Weekend Crash Course
+Udemy Link: https://www.udemy.com/course/fast-track-to-google-sheets-mastery-weekend-crash-course/?couponCode=TECHAI
+Coupon Code: TECHAI
+Name: Python Demonstrations For Practice Course
+Udemy Link: https://www.udemy.com/course/python-for-beginners-demonstration-course/?couponCode=A06075446BA74403F62D
+Coupon Code: A06075446BA74403F62D
+Name: 700-751: Cisco CyberOps Professional Exam
+Udemy Link: https://www.udemy.com/course/700-751-cisco-cyberops-professional-exam/?couponCode=B4E7DACEE6EDB22EE896
+Coupon Code: B4E7DACEE6EDB22EE896
+Name: 700-680: Cisco Data Center Unified Computing Sale Specialist
+Udemy Link: https://www.udemy.com/course/700-680-cisco-data-center-unified-computing-sale-specialist/?couponCode=A4E2EB32D56C05DA7577
+Coupon Code: A4E2EB32D56C05DA7577
+Name: 700-651: Cisco Collaboration Cloud and Managed Services Sale
+Udemy Link: https://www.udemy.com/course/700-651-cisco-collaboration-cloud-and-managed-services-sale/?couponCode=9B506EF28023ED9BAB64
+Coupon Code: 9B506EF28023ED9BAB64
+Name: 700-551: Cisco Cloud and Managed Services Sales Specialist
+Udemy Link: https://www.udemy.com/course/700-551-cisco-cloud-and-managed-services-sales-specialist/?couponCode=7AA45241E2146D265914
+Coupon Code: 7AA45241E2146D265914
+Name: 700-250: Understanding Cisco Cybersecurity Fundamentals
+Udemy Link: https://www.udemy.com/course/700-250-understanding-cisco-cybersecurity-fundamentals/?couponCode=49404D7A87CC1BFFDC19
+Coupon Code: 49404D7A87CC1BFFDC19
+Name: 700-150: Introducing Cisco Data Center Networking (DCICN)
+Udemy Link: https://www.udemy.com/course/700-150-introducing-cisco-data-center-networking-dcicn/?couponCode=97AF54F8AA326354613C
+Coupon Code: 97AF54F8AA326354613C
+Name: JN0-104: Juniper Networks Associate Practice test 2024
+Udemy Link: https://www.udemy.com/course/jn0-104-juniper-networks-associate-practice-test/?couponCode=DA429B6411D89C25E07A
+Coupon Code: DA429B6411D89C25E07A
+Name: Social Media Video Editing With Premiere Pro Canva Filmora
+Udemy Link: https://www.udemy.com/course/social-media-video-editing-with-premiere-pro-canva-filmora/?couponCode=834389DAC91062BBD158
+Coupon Code: 834389DAC91062BBD158
+Name: QuickBooks Desktop Bank Reconciliation
+Udemy Link: https://www.udemy.com/course/quickbooks-desktop-bank-reconciliation/?couponCode=F2A7866D71A46EC7A596
+Coupon Code: F2A7866D71A46EC7A596
+Name: QuickBooks Online 2021 & 2020 Start to Finish
+Udemy Link: https://www.udemy.com/course/quickbooks-online-2018-start-to-finish/?couponCode=E37A27FB360997BD09F7
+Coupon Code: E37A27FB360997BD09F7
+Name: Canva for Social Media Graphic Design and Video Editing
+Udemy Link: https://www.udemy.com/course/canva-for-social-media-graphic-design-and-video-editing/?couponCode=EDD74BD721B4BAECFCED
+Coupon Code: EDD74BD721B4BAECFCED
+Name: T-Shirt Design Bootcamp: Photoshop, Illustrator & Canva
+Udemy Link: https://www.udemy.com/course/t-shirt-design-bootcamp-photoshop-illustrator-canva/?couponCode=00891038BA8698244830
+Coupon Code: 00891038BA8698244830
+Name: QuickBooks Online Bank Reconciliation
+Udemy Link: https://www.udemy.com/course/quickbooks-online-bank-reconciliation/?couponCode=53146A37182D3FC59BCC
+Coupon Code: 53146A37182D3FC59BCC
+Name: 5V0-22.23: VMware Certified Professional - VMware vSAN 8.x
+Udemy Link: https://www.udemy.com/course/5v0-2223-vmware-certified-professional-vmware-vsan-8x/?couponCode=B29C1659EB568B5A1CD0
+Coupon Code: B29C1659EB568B5A1CD0
+Name: Google Sheets Bootcamp Boost Productivity and Efficiency
+Udemy Link: https://www.udemy.com/course/google-sheets-bootcamp-boost-productivity-and-efficiency/?couponCode=646CD8B9C76FB28E17FD
+Coupon Code: 646CD8B9C76FB28E17FD
+Name: Mastering Adobe Premiere Pro CC: From Beginner to Pro Editor
+Udemy Link: https://www.udemy.com/course/mastering-adobe-premiere-pro-cc-from-beginner-to-pro-editor/?couponCode=ED58ECDB04D541D5B877
+Coupon Code: ED58ECDB04D541D5B877
+Name: Personal Finance #10-Bonds & Fixed-Income Investments
+Udemy Link: https://www.udemy.com/course/personal-finance-10-bonds-fixed-income-investments/?couponCode=ACD23FC13EF3041CD7A7
+Coupon Code: ACD23FC13EF3041CD7A7
+Name: Xero vs. Excel 2023
+Udemy Link: https://www.udemy.com/course/xero-vs-excel-2023/?couponCode=AF0518C0BF14DB784AAC
+Coupon Code: AF0518C0BF14DB784AAC
+Name: Accounting–Financial Accounting Total-Beginners to Advanced
+Udemy Link: https://www.udemy.com/course/financial-accounting-accounting-cycle/?couponCode=E64AB160207016DAF34D
+Coupon Code: E64AB160207016DAF34D
+Name: Financial Accounting – Inventory Costs
+Udemy Link: https://www.udemy.com/course/financial-accounting-inventory-costs/?couponCode=B75B562A2588F2B4003B
+Coupon Code: B75B562A2588F2B4003B
+Name: Essential After Effects: From Beginner to Motion Master
+Udemy Link: https://www.udemy.com/course/essential-after-effects-from-beginner-to-motion-master/?couponCode=10C8A2D4179AD8CC0B81
+Coupon Code: 10C8A2D4179AD8CC0B81
+Name: Personal Finance #6-Housing: Purchase vs Renting
+Udemy Link: https://www.udemy.com/course/personal-finance-6-housing-purchase-vs-renting/?couponCode=D4E32D6491B9D1173241
+Coupon Code: D4E32D6491B9D1173241
+Name: Personal Finance #11-Stock Investment -Equity Investments
+Udemy Link: https://www.udemy.com/course/personal-finance-11-stock-investment-equity-investments/?couponCode=1162FA86055987A04C0C
+Coupon Code: 1162FA86055987A04C0C
+Name: Adobe Premiere Pro CC For Video Editing from Novice to Exper
+Udemy Link: https://www.udemy.com/course/adobe-premiere-pro-cc-for-video-editing-from-novice-to-exper/?couponCode=E3C8D6B55A5CE22F7A7B
+Coupon Code: E3C8D6B55A5CE22F7A7B
+Name: Essential Lightroom Course for Beginner to Advanced
+Udemy Link: https://www.udemy.com/course/essential-lightroom-course-for-beginner-to-advanced/?couponCode=D0D39C110CF6A32CDDEF
+Coupon Code: D0D39C110CF6A32CDDEF
+Name: Advanced Microsoft Word With Job Success
+Udemy Link: https://www.udemy.com/course/advanced-microsoft-word-with-job-success/?couponCode=8E547213154B5106B1CE
+Coupon Code: 8E547213154B5106B1CE
+Name: Personal Finance #7-Insurance-Home & Car
+Udemy Link: https://www.udemy.com/course/personal-finance-7-insurance-home-car/?couponCode=2AD61CCF9BEEC42A311A
+Coupon Code: 2AD61CCF9BEEC42A311A
+Name: Hey Bro, Let's Explore the Arabic Language Together
+Udemy Link: https://www.udemy.com/course/hey-bro-lets-explore-the-arabic-language-together/?couponCode=652516B58E99AB5A49F7
+Coupon Code: 652516B58E99AB5A49F7
+Name: UI/UX Design Masterclass with Adobe XD: From Beginner to Pro
+Udemy Link: https://www.udemy.com/course/uiux-design-masterclass-with-adobe-xd-from-beginner-to-pro/?couponCode=819AEB2148ED420C8AAC
+Coupon Code: 819AEB2148ED420C8AAC
+Name: Speaking on the Telephone: Confidently Speak on the Phone
+Udemy Link: https://www.udemy.com/course/how-to-speak-on-the-telephone/?couponCode=9C1BA0AD7DFD508BA264
+Coupon Code: 9C1BA0AD7DFD508BA264
+Name: Public Speaking Trainer: Enter the Presentation Training Biz
+Udemy Link: https://www.udemy.com/course/how-to-be-a-presentation-trainer/?couponCode=8CDC5779197DCD92C288
+Coupon Code: 8CDC5779197DCD92C288
+Name: Public Speaking for People Who Hate Public Speaking
+Udemy Link: https://www.udemy.com/course/public-speaking-for-people-who-hate-public-speaking/?couponCode=C6DC0699482F77A8E7BC
+Coupon Code: C6DC0699482F77A8E7BC
+Name: Presentation Skills: Insurance Your Next Speech Will be Good
+Udemy Link: https://www.udemy.com/course/presentation-skills-insurance-your-next-speech-will-be-good/?couponCode=0304CFA73A717101DC9C
+Coupon Code: 0304CFA73A717101DC9C
+Name: Podcasting: How to Speak Effectively on Your Own Podcast
+Udemy Link: https://www.udemy.com/course/how-to-present-on-a-podcast/?couponCode=FED18BFFCCFD4178368C
+Coupon Code: FED18BFFCCFD4178368C
+Name: 2 in 1 Digital marketing tools with health and fitness ebook
+Udemy Link: https://www.udemy.com/course/2-in-1-digital-marketing-tools-with-health-and-fitness-ebook/?couponCode=2EB87D8E50601A9A8255
+Coupon Code: 2EB87D8E50601A9A8255
+Name: Basic sales concepts - techniques to develop your business
+Udemy Link: https://www.udemy.com/course/basic-sales-concepts-techniques-to-develop-your-business/?couponCode=850A24F4EE8E6EAC3181
+Coupon Code: 850A24F4EE8E6EAC3181
+Name: Identify and Prevent Phishing Attacks: Before They Harm You
+Udemy Link: https://www.udemy.com/course/cyber-safety/?couponCode=C1A052DB940D11611D33
+Coupon Code: C1A052DB940D11611D33
+Name: AZ-900 Exam Prep: Mastering Azure Fundamentals
+Udemy Link: https://www.udemy.com/course/mastering-azure-fundamentals/?couponCode=349D300306D79112A3A3
+Coupon Code: 349D300306D79112A3A3
+Name: PowerShell Functions Master Class
+Udemy Link: https://www.udemy.com/course/powershell-functions-master-class/?couponCode=A1A36671E9F9773FAD95
+Coupon Code: A1A36671E9F9773FAD95
+Name: File & Folder Management in Depth - Using PowerShell
+Udemy Link: https://www.udemy.com/course/using-powershell-advanced-automated-file-management/?couponCode=83999E89F4B1FCFA3D16
+Coupon Code: 83999E89F4B1FCFA3D16
+Name: 3V0-42.20: Advanced Professional VMware NSX-T Data Center
+Udemy Link: https://www.udemy.com/course/3v0-4220-advanced-professional-vmware-nsx-t-data-center/?couponCode=DE137B87D1857F6EE31F
+Coupon Code: DE137B87D1857F6EE31F
+Name: PHP with MySQL 2023: Build 5 PHP and MySQL Projects
+Udemy Link: https://www.udemy.com/course/php-with-mysql-2022-build-5-php-and-mysql-projects/?couponCode=PHPWITHMYSQL58
+Coupon Code: PHPWITHMYSQL58
+Name: American English Vowels & Placement for All
+Udemy Link: https://www.udemy.com/course/american-english-vowels-placement-for-all/?couponCode=OCTFREE
+Coupon Code: OCTFREE
+Name: Drupal For Absolute Beginners (2021)
+Udemy Link: https://www.udemy.com/course/drupal-masterclass/?couponCode=2D37E3575A606A46DE84
+Coupon Code: 2D37E3575A606A46DE84
+Name: सीखें Javascript Programming हिन्दी में
+Udemy Link: https://www.udemy.com/course/learn-javascript-step-by-step-in-hindi/?couponCode=2FC8E03BEF795DD4F5BE
+Coupon Code: 2FC8E03BEF795DD4F5BE
+Name: सीखें WordPress हिन्दी में
+Udemy Link: https://www.udemy.com/course/learn-wordpress-in-hindi/?couponCode=F38F3A1D597B8BC50C9A
+Coupon Code: F38F3A1D597B8BC50C9A
+Name: Drupal For Beginners - Master Drupal Quickly
+Udemy Link: https://www.udemy.com/course/drupal-for-beginners-course/?couponCode=93B403343848C4174126
+Coupon Code: 93B403343848C4174126
+Name: Leadership - Leading a Community
+Udemy Link: https://www.udemy.com/course/leadership-leading-a-community/?couponCode=LEADINGACOMMUNITY59
+Coupon Code: LEADINGACOMMUNITY59
+Name: Workplace Stress Management Strategies
+Udemy Link: https://www.udemy.com/course/workplace-stress-management-strategies/?couponCode=WPSMS21
+Coupon Code: WPSMS21
+Name: Strategic Decision-Making in Economics: Game Theory
+Udemy Link: https://www.udemy.com/course/strategic-decision-making-in-economics-game-theory/?couponCode=OCT082024GOODIES
+Coupon Code: OCT082024GOODIES
+Name: Behavioral Economics: Merging Psychology & Economics
+Udemy Link: https://www.udemy.com/course/behavioral-economics-merging-psychology-economics/?couponCode=OCT082024GOODIES
+Coupon Code: OCT082024GOODIES
+Name: Introduction to Risk Management - Decision Makers & Leaders
+Udemy Link: https://www.udemy.com/course/introduction-to-risk-management-decision-makers-leaders/?couponCode=INTRORISKMGT10
+Coupon Code: INTRORISKMGT10
+Name: Building a Sustainable Supply Chain for the Future
+Udemy Link: https://www.udemy.com/course/building-a-sustainable-supply-chain-for-the-future/?couponCode=OCT082024GOODIES
+Coupon Code: OCT082024GOODIES
+Name: Senior Professional in Human Resources International | SPHRi
+Udemy Link: https://www.udemy.com/course/senior-professional-in-human-resources-international-sphri-t/?couponCode=OCT082024GOODIES
+Coupon Code: OCT082024GOODIES
+Name: Quality & Continuous Improvement in Project Management
+Udemy Link: https://www.udemy.com/course/quality-continuous-improvement-in-project-management/?couponCode=OCT082024GOODIES
+Coupon Code: OCT082024GOODIES
+Name: Organizational Influences & Project Management Lifecycle
+Udemy Link: https://www.udemy.com/course/organizational-influences-project-management-lifecycle/?couponCode=OCT082024GOODIES
+Coupon Code: OCT082024GOODIES
+Name: Strategic Business Development & Financial Mastery
+Udemy Link: https://www.udemy.com/course/strategic-business-development-financial-mastery/?couponCode=OCT082024GOODIES
+Coupon Code: OCT082024GOODIES
+Name: Learn how to create Variables in Modern JavaScript
+Udemy Link: https://www.udemy.com/course/learn-how-to-create-variables-in-modern-javascript/?couponCode=446BC744A255A1679612
+Coupon Code: 446BC744A255A1679612
+Name: JavaScript OOP: Mastering Modern Object-Oriented Programming
+Udemy Link: https://www.udemy.com/course/javascript-oop-mastering-modern-object-oriented-programming/?couponCode=C1B7C51964FE0BD276DB
+Coupon Code: C1B7C51964FE0BD276DB
+Name: Java And C++ And PHP Crash Course For Beginners
+Udemy Link: https://www.udemy.com/course/java-and-c-and-php-crash-course-for-beginners/?couponCode=8820B3FFDAF293EF39ED
+Coupon Code: 8820B3FFDAF293EF39ED
+Name: Effective Goal Setting ( General, SMART and OKR) in Hindi
+Udemy Link: https://www.udemy.com/course/goal-setting-smart-okr/?couponCode=B6BFE8C6508DF1894B5B
+Coupon Code: B6BFE8C6508DF1894B5B
+Name: Quantity Surveying & Building Estimate
+Udemy Link: https://www.udemy.com/course/quantity-surveying-building-estimate/?couponCode=791AFA54867ABA060C42
+Coupon Code: 791AFA54867ABA060C42
+Name: Learn AutoCAD 2D
+Udemy Link: https://www.udemy.com/course/learn-autocad-2d/?couponCode=BC04AFDDD15CD09BD88E
+Coupon Code: BC04AFDDD15CD09BD88E
+Name: C-level management: 100 models for business success
+Udemy Link: https://www.udemy.com/course/c-level-management-100-models-for-business-success/?couponCode=D9050414237C8F8CE970
+Coupon Code: D9050414237C8F8CE970
+Name: CSS, Bootstrap And JavaScript And Python Stack Course
+Udemy Link: https://www.udemy.com/course/css-bootstrap-and-javascript-and-python-stack-course/?couponCode=52B2E6F827D0E044A54E
+Coupon Code: 52B2E6F827D0E044A54E
+Name: Python For Beginners Course In-Depth
+Udemy Link: https://www.udemy.com/course/python-for-beginners-course-in-depth/?couponCode=4C4D7A87942A9793C6E1
+Coupon Code: 4C4D7A87942A9793C6E1
+Name: 750+ CompTIA DataSys+ DS0-001 Practice Tests Questions 2024
+Udemy Link: https://www.udemy.com/course/comptia-datasys-practice-tests-questions/?couponCode=28096DA35DC0D281F42D
+Coupon Code: 28096DA35DC0D281F42D
+Name: 980+ CompTIA Project+ PK0-005 Practice Tests Questions
+Udemy Link: https://www.udemy.com/course/comptia-project-practice-tests-questions/?couponCode=8CB27680C586D62AA345
+Coupon Code: 8CB27680C586D62AA345
+Name: Essential Photoshop Course for Beginner to Advanced
+Udemy Link: https://www.udemy.com/course/graphics-design-video-editing-for-beginner-to-advanced/?couponCode=DE97DA0F3C66470C759C
+Coupon Code: DE97DA0F3C66470C759C
+Name: The Ultimate Filmora Video Editing Course: Beginner to Pro
+Udemy Link: https://www.udemy.com/course/the-ultimate-filmora-video-editing-course-beginner-to-pro/?couponCode=BF91188B9D8FE39EC314
+Coupon Code: BF91188B9D8FE39EC314
+Name: Advanced Adobe Premiere Pro Add Hollywood-level Effects
+Udemy Link: https://www.udemy.com/course/advanced-adobe-premiere-pro-add-hollywood-level-effects/?couponCode=11A1C3CE82E6AA100035
+Coupon Code: 11A1C3CE82E6AA100035
+Name: 15 Effective Steps for Growing Business in Social Media
+Udemy Link: https://www.udemy.com/course/15-effective-steps-for-growing-business-in-social-media/?couponCode=ESGB0810
+Coupon Code: ESGB0810
+Name: Facebook Ads Improvement: Make Your Ads Breathtaking
+Udemy Link: https://www.udemy.com/course/facebook-ads-improvement-make-your-ads-breathtaking/?couponCode=FA0810
+Coupon Code: FA0810
+Name: C# Basics: From Zero to First Applications
+Udemy Link: https://www.udemy.com/course/c-basics-from-zero-to-first-applications/?couponCode=BZFA0810
+Coupon Code: BZFA0810
+Name: iOS Development Kickstart: Craft Your First App With SwiftUI
+Udemy Link: https://www.udemy.com/course/ios-development-craft-your-first-app-with-swiftui/?couponCode=IDK0810
+Coupon Code: IDK0810
+Name: Online Course Creation: 10 Key Steps from Idea to Launch
+Udemy Link: https://www.udemy.com/course/online-course-creation-10-key-steps-from-idea-to-launch/?couponCode=OC0810
+Coupon Code: OC0810
+Name: Prioritization Techniques for Decision Makers and Leaders
+Udemy Link: https://www.udemy.com/course/prioritization-techniques-for-decision-makers-and-leaders/?couponCode=PRIORITYTECH20
+Coupon Code: PRIORITYTECH20
+Name: Visualization techniques for Decision Makers and Leaders
+Udemy Link: https://www.udemy.com/course/visualization-techniques-for-decision-makers-and-leaders/?couponCode=VISUALTECH18
+Coupon Code: VISUALTECH18
+Name: Vigilant Leadership
+Udemy Link: https://www.udemy.com/course/vigilant-leadership/?couponCode=VIGILANT56
+Coupon Code: VIGILANT56
+Name: Fundamentals of Financial Services
+Udemy Link: https://www.udemy.com/course/fundamentals-of-financial-services/?couponCode=FUNDAMENTALSFS60
+Coupon Code: FUNDAMENTALSFS60
+Name: 3V0-21.23: Advanced Professional VMware vSphere 8.x Design
+Udemy Link: https://www.udemy.com/course/3v0-2123-advanced-professional-vmware-vsphere-8x-design/?couponCode=BD41854832F17EE3F4A3
+Coupon Code: BD41854832F17EE3F4A3
+Name: SiteGround Security: Protege tu Sitio Web en WordPress
+Udemy Link: https://www.udemy.com/course/siteground-security-protege-tu-sitio-web-en-wordpress/?couponCode=SS
+Coupon Code: SS
+Name: SiteGround Migrator: Migra tu Web con WordPress a SiteGround
+Udemy Link: https://www.udemy.com/course/siteground-migrator-migra-tu-web-con-wordpress-a-siteground/?couponCode=SM
+Coupon Code: SM
+Name: Amazon Afiliados: Cómo Crear una Página Web de Nicho
+Udemy Link: https://www.udemy.com/course/amazon-afiliados-como-crear-una-pagina-web-de-nicho/?couponCode=PWN
+Coupon Code: PWN
+Name: Essential Amazon Affiliate Marketing for Beginners
+Udemy Link: https://www.udemy.com/course/essential-amazon-affiliate-marketing-for-beginners/?couponCode=5055AC307FFCC43FF3C1
+Coupon Code: 5055AC307FFCC43FF3C1
+Name: Cómo Usar el Creador de Sitios Web con IA de Hostinger
+Udemy Link: https://www.udemy.com/course/como-usar-el-creador-de-sitios-web-con-ia-de-hostinger/?couponCode=CSW
+Coupon Code: CSW
+Name: Curso Básico de MailerLite: Crea Automatizaciones de Correo
+Udemy Link: https://www.udemy.com/course/curso-basico-de-mailerlite-crea-automatizaciones-de-correo/?couponCode=MB
+Coupon Code: MB
+Name: 3V0-21.21: Advanced Professional VMware vSphere 7.x Design
+Udemy Link: https://www.udemy.com/course/3v0-2121-advanced-professional-vmware-vsphere-7x-design/?couponCode=A9B69A49D7842C3E4F77
+Coupon Code: A9B69A49D7842C3E4F77
+Name: Public Speaking and Presentation Skills Course
+Udemy Link: https://www.udemy.com/course/public-speaking-and-presentation-skills-course/?couponCode=53394933A20464192FC8
+Coupon Code: 53394933A20464192FC8
+Name: 2V0-81.20: Professional VMware Security Practice Exam 2024
+Udemy Link: https://www.udemy.com/course/2v0-8120-professional-vmware-security-practice-exam/?couponCode=1B916CD0F191FDEE7AD8
+Coupon Code: 1B916CD0F191FDEE7AD8
+Name: 2V0-71.21: Professional VMware Application Modernization 24
+Udemy Link: https://www.udemy.com/course/2v0-7121-professional-vmware-application-modernizations/?couponCode=20544E068159160D486F
+Coupon Code: 20544E068159160D486F
+Name: 10 HTML CSS JS projects- HTML5, CSS3, and vanilla JavaScript
+Udemy Link: https://www.udemy.com/course/10-html-css-js-projects-html5-css3-and-vanilla-javascript/?couponCode=7B878DA9DB040C4A7E56
+Coupon Code: 7B878DA9DB040C4A7E56
+Name: Master Android by Building 3 Applications in Kotlin Language
+Udemy Link: https://www.udemy.com/course/master-android-by-building-3-applications-in-kotlin-language/?couponCode=B71BA78DE872C14C733A
+Coupon Code: B71BA78DE872C14C733A
+Name: Android Course Build 3 Applications from Scratch with Java
+Udemy Link: https://www.udemy.com/course/android-course-build-3-applications-from-scratch-with-java/?couponCode=9BFC5156D7CB92CD4FCF
+Coupon Code: 9BFC5156D7CB92CD4FCF
+Name: 2V0-51.21: Professional VMware Horizon 8x Practice Exam 2024
+Udemy Link: https://www.udemy.com/course/2v0-5121-professional-vmware-horizon-8x-practice-exam/?couponCode=1852CB5F260F46757773
+Coupon Code: 1852CB5F260F46757773
+Name: Unlocking Inverse Trigonometry: Mastering From Scratch
+Udemy Link: https://www.udemy.com/course/master-inverse-trigonometry-from-basic-to-advancemaths/?couponCode=A143E3A6402654A68813
+Coupon Code: A143E3A6402654A68813
+Name: Number Theory (Unvisited applications in the Real World)
+Udemy Link: https://www.udemy.com/course/number-theory-unvisited-applications-in-the-real-world/?couponCode=314366F0C7D53A9A4C5E
+Coupon Code: 314366F0C7D53A9A4C5E
+Name: HTML5 Essentials and Advanced Practices
+Udemy Link: https://www.udemy.com/course/html5-essentials-and-advanced-practices/?couponCode=F88F1BBA1090E3988925
+Coupon Code: F88F1BBA1090E3988925
+Name: SEO Mastery: MCQ Practice Course
+Udemy Link: https://www.udemy.com/course/seo-mastery-mcq-practice-course/?couponCode=9BE9E156CD6285414FF0
+Coupon Code: 9BE9E156CD6285414FF0
+Name: Master Adobe Illustrator: Design Awesome Logos and Graphics
+Udemy Link: https://www.udemy.com/course/master-adobe-illustrator-design-awesome-logos-and-graphics/?couponCode=1CD5EA2D1D2CB391C338
+Coupon Code: 1CD5EA2D1D2CB391C338
+Name: Angular
+Udemy Link: https://www.udemy.com/course/angular-web-design/?couponCode=0AB703F7FBC4E3C284BA
+Coupon Code: 0AB703F7FBC4E3C284BA
+Name: 2V0-41.23: Professional VMware NSX 4.x Practice Exam 2024
+Udemy Link: https://www.udemy.com/course/2v0-4123-professional-vmware-nsx-4x-practice-exam/?couponCode=06D5C85D7254864080EA
+Coupon Code: 06D5C85D7254864080EA
+Name: Design Thinking Guide for Successful Professionals
+Udemy Link: https://www.udemy.com/course/design-thinking-for-long-term-business-success/?couponCode=OCT2024FREE1
+Coupon Code: OCT2024FREE1
+Name: Oracle Java Certification Exam OCA 1Z0-808 Preparation Part1
+Udemy Link: https://www.udemy.com/course/oca-certification-java-exam-practice-tests-oracle-preparation-part-one/?couponCode=7FCA928D72BB1EC674A5
+Coupon Code: 7FCA928D72BB1EC674A5
+Name: 2V0-41.20: Professional VMware NSXT Data Center Practic Exam
+Udemy Link: https://www.udemy.com/course/2v0-4120-professional-vmware-nsxt-data-center-practic-exam/?couponCode=83BF3E857AE78D37EC70
+Coupon Code: 83BF3E857AE78D37EC70
+Name: Introduction with Amines (Organic Chemistry)
+Udemy Link: https://www.udemy.com/course/introduction-with-amines-organic-chemistry/?couponCode=9F6DB4D6AF826A0E604B
+Coupon Code: 9F6DB4D6AF826A0E604B
+Name: 2V0-33.22: VMware Cloud Professional Practice Exam 2024
+Udemy Link: https://www.udemy.com/course/2v0-3322-vmware-cloud-professional-practice-exam-2024/?couponCode=F3F56FB2AA7D2847C5B7
+Coupon Code: F3F56FB2AA7D2847C5B7
+Name: Bird's eye view - business development and sales processes
+Udemy Link: https://www.udemy.com/course/birds-eye-view-business-development-and-sales-processes/?couponCode=EC66A013072166564923
+Coupon Code: EC66A013072166564923
+Name: Learn Chess in Hindi : Zero to Master Level
+Udemy Link: https://www.udemy.com/course/learn-chess-in-hindi-zero-to-master-level/?couponCode=45D2FDA65D9F94C03D78
+Coupon Code: 45D2FDA65D9F94C03D78
+Name: The Concept of  Waste
+Udemy Link: https://www.udemy.com/course/the-concept-of-waste/?couponCode=1900B0F168DBC81064E9
+Coupon Code: 1900B0F168DBC81064E9
+Name: Upgrade Your Social Media Presence with Chat GPT
+Udemy Link: https://www.udemy.com/course/upgrade-your-social-media-presence-with-chat-gpt/?couponCode=SMMCH0710
+Coupon Code: SMMCH0710
+Name: Investing & Options: From Basics to Mastery
+Udemy Link: https://www.udemy.com/course/investing-options-from-basics-to-mastery/?couponCode=INVESTFREE0710
+Coupon Code: INVESTFREE0710
+Name: 300-515: Cisco Service Provider VPN Practice test 2024
+Udemy Link: https://www.udemy.com/course/300-515-cisco-service-provider-vpn-practice-test/?couponCode=04396A9C90192B731C23
+Coupon Code: 04396A9C90192B731C23
+Name: 300-425: Cisco Enterprise Wireless Network Practice test 24
+Udemy Link: https://www.udemy.com/course/300-425-cisco-enterprise-wireless-network-practice-test-24/?couponCode=9570DDFC884D034FF8DE
+Coupon Code: 9570DDFC884D034FF8DE
+Name: 300-410: Cisco Enterprise Advance Routing Practice test 2024
+Udemy Link: https://www.udemy.com/course/300-410-cisco-enterprise-advance-routing-practice-test-2024/?couponCode=10072A69C009A5F6AA67
+Coupon Code: 10072A69C009A5F6AA67
+Name: 300-101: Implementing Cisco IP Routing Practice test 2024
+Udemy Link: https://www.udemy.com/course/300-101-implementing-cisco-ip-routing-practice-test-2024/?couponCode=00999E58B0375C3C7E27
+Coupon Code: 00999E58B0375C3C7E27
+Name: 200-201: Cisco CCNA Security Practice test 2024
+Udemy Link: https://www.udemy.com/course/200-201-cisco-ccna-security-practice-test-2024/?couponCode=FF8196CD5316F8F7A52E
+Coupon Code: FF8196CD5316F8F7A52E
+Name: Learn to Overcoming Learning Barriers
+Udemy Link: https://www.udemy.com/course/learn-to-overcoming-learning-barriers/?couponCode=C4DD0A2F50103572B8C3
+Coupon Code: C4DD0A2F50103572B8C3
+Name: Volume of Sphere: Basic Concept and Formula
+Udemy Link: https://www.udemy.com/course/volume-of-sphere-basic-concept-and-formula/?couponCode=248EB6F4494EAD1EFF40
+Coupon Code: 248EB6F4494EAD1EFF40
+Name: How to protect your computer from Computer Virus?
+Udemy Link: https://www.udemy.com/course/how-to-protect-your-computer-from-computer-virus/?couponCode=26ABDCC52D1885BA1F27
+Coupon Code: 26ABDCC52D1885BA1F27
+Name: From Zero to Hero: Computer Virus Detection and Eradication
+Udemy Link: https://www.udemy.com/course/from-zero-to-hero-computer-virus-detection-and-eradication/?couponCode=E75C7E09243FF77902F2
+Coupon Code: E75C7E09243FF77902F2
+Name: Why Antivirus is Essential?
+Udemy Link: https://www.udemy.com/course/safeguarding-your-computer-why-antivirus-is-essential/?couponCode=03F080EA48689855E769
+Coupon Code: 03F080EA48689855E769
+Name: Exploring Frequency Distribution  Tables  ( Part-I )
+Udemy Link: https://www.udemy.com/course/exploring-frequency-distribution-tables-part-i/?couponCode=DB381179DF29CFA36265
+Coupon Code: DB381179DF29CFA36265
+Name: Probability Part - 2
+Udemy Link: https://www.udemy.com/course/probability-part-2/?couponCode=28DD20721D7E18E33B70
+Coupon Code: 28DD20721D7E18E33B70
+Name: Money Matters: Delving its Meaning, Functions, Properties
+Udemy Link: https://www.udemy.com/course/money-matters-delving-its-meaning-functions-properties/?couponCode=D7CE2F302B7A2D407655
+Coupon Code: D7CE2F302B7A2D407655
+Name: Professional Scrum Master PSM 2 / PSM2 Practice Exams
+Udemy Link: https://www.udemy.com/course/professional-scrum-master-psm-2-psm2-practice-exams/?couponCode=218A97778B371012A05A
+Coupon Code: 218A97778B371012A05A
+Name: PSPO 2 / PSPO II - Product Owner 2 Mock Exams | 2023 Passed
+Udemy Link: https://www.udemy.com/course/pspo-2-pspo-ii-product-owner-2-mock-exams-2023-passed/?couponCode=0BC0AABA2E882855307D
+Coupon Code: 0BC0AABA2E882855307D
+Name: Build a simple React App from scratch
+Udemy Link: https://www.udemy.com/course/build-a-simple-react-app-from-scratch/?couponCode=ECF1012A122BF60010E7
+Coupon Code: ECF1012A122BF60010E7
+Name: Pros and Cons of MNCs : A Comparative Study
+Udemy Link: https://www.udemy.com/course/pros-and-cons-of-mncs-a-comparative-study/?couponCode=7122058D24846AD0919B
+Coupon Code: 7122058D24846AD0919B
+Name: The Ultimate Guide to Private and Public Sector
+Udemy Link: https://www.udemy.com/course/the-ultimate-guide-to-private-and-public-sector/?couponCode=5742EC30712D8BBDD1B7
+Coupon Code: 5742EC30712D8BBDD1B7
+Name: Online Transactions: Step by Step Guide
+Udemy Link: https://www.udemy.com/course/online-transactions-step-by-step-guide/?couponCode=686B253A45BAF5C677EB
+Coupon Code: 686B253A45BAF5C677EB
+Name: Time Management Tips: You Need to Know About
+Udemy Link: https://www.udemy.com/course/time-management-tips-you-need-to-know-about/?couponCode=CA8A1F34C37B99D5B639
+Coupon Code: CA8A1F34C37B99D5B639
+Name: How to Manage Stress in our life ?
+Udemy Link: https://www.udemy.com/course/how-to-manage-stress-in-our-life/?couponCode=D88A7C43C745783A2F82
+Coupon Code: D88A7C43C745783A2F82
+Name: Web Applications Step by Step Guide  Part 4
+Udemy Link: https://www.udemy.com/course/web-applications-step-by-step-guide-part-4/?couponCode=02A47BC67BF79A29724E
+Coupon Code: 02A47BC67BF79A29724E
+Name: Cuboid calculations made easy: Mastering the basics
+Udemy Link: https://www.udemy.com/course/cuboid-calculations-made-easy-mastering-the-basics/?couponCode=B335689C8B3E715DBBC7
+Coupon Code: B335689C8B3E715DBBC7
+Name: Mastering the Art of the Interview
+Udemy Link: https://www.udemy.com/course/mastering-the-art-of-the-interview/?couponCode=EE55BED50061AAF6F94F
+Coupon Code: EE55BED50061AAF6F94F
+Name: Factors that impact Mental Health and Well-being
+Udemy Link: https://www.udemy.com/course/factors-that-impact-mental-health-and-well-being/?couponCode=B812C91D82B720AC79E1
+Coupon Code: B812C91D82B720AC79E1
+Name: Practical Steps to Improve Mental Health and Well-Being
+Udemy Link: https://www.udemy.com/course/practical-steps-to-improve-mental-health-and-well-being/?couponCode=1B96BFA56B8EE433D471
+Coupon Code: 1B96BFA56B8EE433D471
+Name: Construye una tienda en Shopify desde cero
+Udemy Link: https://www.udemy.com/course/construye-una-tienda-en-shopify-desde-cero/?couponCode=AUTUMNBLISS20
+Coupon Code: AUTUMNBLISS20
+Name: El curso completo WordPress para debutar
+Udemy Link: https://www.udemy.com/course/el-curso-completo-wordpress-para-debutar/?couponCode=GOLDENLEAF15
+Coupon Code: GOLDENLEAF15
+Name: Machine Learning: Aplicado a Python y Data Science
+Udemy Link: https://www.udemy.com/course/machine-learning-aplicado-a-python-y-data-science/?couponCode=MOONLITSALE30
+Coupon Code: MOONLITSALE30
+Name: Learn programming Games with Scratch
+Udemy Link: https://www.udemy.com/course/learn-programming-from-scratch-with-scratch/?couponCode=D879919B312F4545B639
+Coupon Code: D879919B312F4545B639
+Name: Location-Inclusive Mindsets: For Leaders, Managers, and HR
+Udemy Link: https://www.udemy.com/course/location-inclusive-mindsets-genman-solutions/?couponCode=B8C2696F6EB64ABA604E
+Coupon Code: B8C2696F6EB64ABA604E
+Name: Postgraduate Executive Diploma: Innovation Management
+Udemy Link: https://www.udemy.com/course/innovations/?couponCode=839955458281D861C26C
+Coupon Code: 839955458281D861C26C
+Name: Payroll Accounting: Laws, Calculations, and Journal Entries
+Udemy Link: https://www.udemy.com/course/financial-accounting-payroll/?couponCode=C8CB5E2C65CA13A7478F
+Coupon Code: C8CB5E2C65CA13A7478F
+Name: Financial Accounting-Debits & Credits-Accounting Transaction
+Udemy Link: https://www.udemy.com/course/financial-accounting-debits-credits-accounting-transaction/?couponCode=CCFC8F97D55D129B7418
+Coupon Code: CCFC8F97D55D129B7418
+Name: Financial Accounting–Inventory & Merchandising Transactions
+Udemy Link: https://www.udemy.com/course/financial-accountinginventory-merchandising-transactions/?couponCode=CF2002F85E0537E07A55
+Coupon Code: CF2002F85E0537E07A55
+Name: Accounting-Bonds Payable, Notes Payable, Liabilities
+Udemy Link: https://www.udemy.com/course/accounting-bonds-payable-notes-payable-liabilities/?couponCode=C347A7D6A424B1D20D0A
+Coupon Code: C347A7D6A424B1D20D0A
+Name: QuickBooks Desktop vs. Excel
+Udemy Link: https://www.udemy.com/course/quickbooks-desktop-2018-vs-excel/?couponCode=7DD8F80DB75DF8641010
+Coupon Code: 7DD8F80DB75DF8641010
+Name: Financial Accounting – Closing Process
+Udemy Link: https://www.udemy.com/course/financial-accounting-closing-process/?couponCode=818051A470D5C0BCDCCF
+Coupon Code: 818051A470D5C0BCDCCF
+Name: Receivables & The Allowance vs The Direct Write Off Methods
+Udemy Link: https://www.udemy.com/course/receivables-the-allowance-vs-the-direct-write-off-methods/?couponCode=0EC144886A4FFDB10EDB
+Coupon Code: 0EC144886A4FFDB10EDB
+Name: JavaScript 10 Projects in 10 Days Course for Beginners
+Udemy Link: https://www.udemy.com/course/javascript-10-projects-in-10-days-course-for-beginners-w/?couponCode=7B94757E01A14C5CDD41
+Coupon Code: 7B94757E01A14C5CDD41
+Name: Logical Puzzles | Interesting Stress Buster Puzzles
+Udemy Link: https://www.udemy.com/course/logical-reasoning-interesting-puzzles-stress-buster/?couponCode=2B92C2DF88647D3B1A3A
+Coupon Code: 2B92C2DF88647D3B1A3A
+Name: CSS, JavaScript And Python Complete Course
+Udemy Link: https://www.udemy.com/course/css-javascript-and-python-complete-course/?couponCode=9A90999FB360CD919BBF
+Coupon Code: 9A90999FB360CD919BBF
+Name: Python - Data Analytics - Real World Hands-on Projects
+Udemy Link: https://www.udemy.com/course/bigdata-analysis-python/?couponCode=PROJECT_FREE_OCT11
+Coupon Code: PROJECT_FREE_OCT11
+Name: Learning Microsoft Word through an Exciting Book Project
+Udemy Link: https://www.udemy.com/course/learning-microsoft-word-through-an-exciting-book-project/?couponCode=8411888903F6E15903B9
+Coupon Code: 8411888903F6E15903B9
+Name: T-Shirt Design for Beginner to Advanced with Adobe Photoshop
+Udemy Link: https://www.udemy.com/course/t-shirt-design-for-beginner-to-advanced-with-adobe-photoshop/?couponCode=14D516B22855EE3B27D7
+Coupon Code: 14D516B22855EE3B27D7
+Name: C++ Beginner to Advanced: Modern C++20 and Multithreading
+Udemy Link: https://www.udemy.com/course/practical-modern-cpp-masterclass/?couponCode=E15F5DD5313C88C4398F
+Coupon Code: E15F5DD5313C88C4398F
+Name: Numpy For Data Science - Real Time Exercises
+Udemy Link: https://www.udemy.com/course/python-numpy-exercises/?couponCode=NUMPY_FREE_OCT11
+Coupon Code: NUMPY_FREE_OCT11
+Name: The Ultimate Adobe Photoshop CC Fundamental Course (2024)
+Udemy Link: https://www.udemy.com/course/the-ultimate-adobe-photoshop-fundamental-course/?couponCode=PSFUNDA1000
+Coupon Code: PSFUNDA1000
+Name: Adobe Firefly Mastery Course - Crafting Magic with Firefly
+Udemy Link: https://www.udemy.com/course/crafting-magic-with-firefly/?couponCode=AFIREFLY1000
+Coupon Code: AFIREFLY1000
+Name: Adobe Illustrator & After Effects 2 in1 Course for Newbies
+Udemy Link: https://www.udemy.com/course/adobe-illustrator-after-effects-2-in1-course-for-newbies/?couponCode=ADILLAFX1000
+Coupon Code: ADILLAFX1000
+Name: Adobe Photoshop Mega Mastery Course: Novice to Pro 2024 + AI
+Udemy Link: https://www.udemy.com/course/adobe-photoshop-mega-mastery-course-novice-to-pro/?couponCode=PSMEGG1000
+Coupon Code: PSMEGG1000
+Name: Certified Data Management Professional (CDMP) - Associate
+Udemy Link: https://www.udemy.com/course/certified-data-management-professional-cdmp-associate/?couponCode=OCT082024GOODIES
+Coupon Code: OCT082024GOODIES
+Name: Computer Networks theory and network configurations
+Udemy Link: https://www.udemy.com/course/computer-networks-theory-and-network-configurations/?couponCode=17C182DF5A371B8EC053
+Coupon Code: 17C182DF5A371B8EC053
+Name: Learning Microsoft Excel easy with Practical Examples
+Udemy Link: https://www.udemy.com/course/excel-essentials-unlocking-mastery-with-practical-exercises/?couponCode=03E80436BB3D40D05784
+Coupon Code: 03E80436BB3D40D05784
+Name: Mega Microsoft Office Course | Covers Seven Office Products
+Udemy Link: https://www.udemy.com/course/mega-microsoft-office-course-covers-seven-office-products/?couponCode=MEGAOFCPROMOOCT2024
+Coupon Code: MEGAOFCPROMOOCT2024
+Name: Microsoft PowerBI Masterclass Edition(Latest Version Apr'24)
+Udemy Link: https://www.udemy.com/course/microsoft-powerbi-masterclass-latest-version/?couponCode=OCT_2024
+Coupon Code: OCT_2024
+Name: CentOS Linux and Ubuntu Linux: Managing Packages
+Udemy Link: https://www.udemy.com/course/centos-and-ubuntu-managing-packages/?couponCode=5D823C2F729692B906B4
+Coupon Code: 5D823C2F729692B906B4
+Name: Microsoft Excel Pivot Tables With Formulas & Functions
+Udemy Link: https://www.udemy.com/course/microsoft-excel-pivot-tables-with-formulas-functions/?couponCode=BISMILLAH13
+Coupon Code: BISMILLAH13
+Name: Build from Scratch a Modern REST API with PHP 8
+Udemy Link: https://www.udemy.com/course/build-modern-php-api/?ref=yesy&couponCode=6E5253BFB0CC137AB182
+Coupon Code: 6E5253BFB0CC137AB182
